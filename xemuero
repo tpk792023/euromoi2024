@@ -32,25 +32,24 @@ https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 4
 https://tth.vn/tv360plus4
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
-
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 50fps
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://live.pipitv.top/stream/channelid/605615234?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://live.pipitv.top/stream/channelid/681017258?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://live.pipitv.top/stream/channelid/809837702?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://live.pipitv.top/stream/channelid/989913226?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7
+https://live.pipitv.top/stream/channelid/60159943?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV THỂ THAO
+https://live.pipitv.top/stream/channelid/316575751?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
+https://live.pipitv.top/stream/channelid/305067880?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2
+https://live.pipitv.top/stream/channelid/1133832693?profile=pass
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3
+https://live.pipitv.top/stream/channelid/1896517621?profile=pass
 
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9ed2c4f6adc51975cdbd2a93093e6a43.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2e02d3f27830c7f3642e6592e6b922dd.png",05:00 - 15/06 | Argentine Division 1 | Boca Juniors vs Velez Sarsfield
