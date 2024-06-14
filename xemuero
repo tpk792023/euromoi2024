@@ -130,5 +130,11 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftps-t
 Không tìm thấy thông tin trận đấu.#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/euro2024.png" group-title="⚽ GGSport Live" ,UK - ITV 1-1 | 15/06-02:00 | Euro Championship | Germany - Scotland
 http://bentre5.hoangai.vn:8082/weblau/ggsport/ch.php?id=https%3A%2F%2Fnllive.score806.cc%2Fuk_itv1%2Findex.m3u8
 
+#EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://img.thesports.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png", 14/06-19:00 | Korea Republic U21 vs Indonesia U20
+http://bentre5.hoangai.vn:8080/thapcam/play.php?id=RS7NtkC
+#EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://img.thesports.com/volleyball/competition/bcbc8e93681a262f7d5361a8b1133fc3.png", 14/06-19:30 | China Women vs Germany Women
+http://bentre5.hoangai.vn:8080/thapcam/play.php?id=qNNJkzd
+
+
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/euro2024.png" group-title="⚽ GGSport Live" ,UK - ITV 1 | 15/06-02:00 | Euro Championship | Germany - Scotland
 http://bentre5.hoangai.vn:8082/weblau/ggsport/ch.php?id=https%3A%2F%2Fnllive.score806.cc%2Fuk_itv1%2Findex.m3u8
