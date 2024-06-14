@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 1
+https://hqth.me/Euro2024-FeedLink1
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 2
+https://hqth.me/Euro2024-FeedLink2
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 3 (HD)
+https://hqth.me/Euro2024-FeedLink3
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 1 | Backup
+https://hqth.me/Euro2024-FeedLink1-Backup
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 2 | Backup
+https://hqth.me/Euro2024-FeedLink2-Backup
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-euro2024", LoidTV Link 3 (HD) | Backup
+https://hqth.me/Euro2024-FeedLink3-Backup
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 1
+https://tth.vn/tv360plus1
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 2
+https://tth.vn/tv360plus2
+
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 3
+https://tth.vn/tv360plus3
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 4
+https://tth.vn/tv360plus4
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 50fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://171.238.181.52:18080/194_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
+
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F199b4119fddf5ca17aede099a8b31eee.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F69b57bf85b223fc09bdeb5768bff90bb.png",13:00 - 14/06 | Chinese Women's League One | Tianjin Shengde(w) vs Hebei(w)
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftianjin-shengde-w-vs-hebei-cffc-w-luc-1300-ngay-14-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3cdb508d3d2d22d11f311aaa8d59fb2d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd9a3c5c122b3cc6e825109eb6745e378.png",13:00 - 14/06 | Chinese Women's League One | Beijing Normal University(w) vs Foshan Sports(w)
