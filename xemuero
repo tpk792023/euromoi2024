@@ -178,11 +178,19 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=837gbrvpm5
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=v87u40nin5
 
 
-
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://img.thesports.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png", 14/06-19:00 | Korea Republic U21 vs Indonesia U20
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=RS7NtkC
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://img.thesports.com/volleyball/competition/bcbc8e93681a262f7d5361a8b1133fc3.png", 14/06-19:30 | China Women vs Germany Women
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=qNNJkzd
+
+#EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png", 14/06-22:00 | Mexico U23 vs Japan U19
+https://2576342355.global.cdnfastest.com/live/CHUBATHONG.m3u8
+#EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png", 14/06-23:00 | Á RẬP XÊ ÚT U23 vs PANAMA U23
+https://2576342355.global.cdnfastest.com/live/SONGNHI.m3u8
+#EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png", 15/06-02:00 | ĐỨC vs SCOTLANDS
+https://2576342355.global.cdnfastest.com/live/TONGGIANG.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/euro2024.png" group-title="⚽ GGSport Live" ,UK - ITV 1 | 15/06-02:00 | Euro Championship | Germany - Scotland
