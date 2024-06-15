@@ -23,7 +23,8 @@ https://hqth.me/Euro2024-FeedLink2-Backup
 https://hqth.me/Euro2024-FeedLink3-Backup
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 1
-https://tth.vn/tv360plus1
+https://api.wintv.me/360/2554/index.m3u8
+#https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 2
 https://tth.vn/tv360plus2
