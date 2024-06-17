@@ -72,8 +72,6 @@ https://api.wintv.me/360/195/index.m3u8
 https://cdn1.tvmienphi.live:8444/sctv/s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2
 https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3
-https://live.pipitv.top/stream/channelid/1896517621?profile=pass
 
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F38fed1239be1c85285e8af08e62e3bd3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F79a8cb57c94125e619338bbc29b75186.png",15:15 - 17/06 | NPL U23 A | Kingston City U23 vs Preston Lions U23
@@ -233,14 +231,14 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=2076ydw348
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hqcssi0jdo
 
 
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",16/06/2024-23:00 | Slovenia vs Denmark
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=yPgCrQi
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",16/06/2024-23:00 | Slovenia vs Denmark
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=FRMYBgm
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",16/06/2024-23:15 | Ivory Coast U20 vs Ukraine U23
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=41agEDB
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png",16/06/2024-22:30 | Centro Atletico Fenix vs Wanderers FC
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=ymVOQBE
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",17/06/2024-20:00 | Romania vs Ukraine
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=kbI6MI8
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",17/06/2024-20:00 | Romania vs Ukraine
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=8RH7k9E
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",17/06/2024-23:00 | Belgium vs Slovakia
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=jOIKZAp
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",17/06/2024-23:00 | Belgium vs Slovakia
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=6hqGas8
 
 
 #EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png", 16/06-20:00 | Ba Lan vs Hà Lan
