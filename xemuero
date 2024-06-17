@@ -74,28 +74,26 @@ https://cdn1.tvmienphi.live:8444/sctv/s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/
 https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8
 
 
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F38fed1239be1c85285e8af08e62e3bd3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F79a8cb57c94125e619338bbc29b75186.png",15:15 - 17/06 | NPL U23 A | Kingston City U23 vs Preston Lions U23
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkingston-city-u23-vs-preston-lions-u23-luc-1400-ngay-14-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8ea8944e965e872d02351d8600b183b7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffadf3ee37868ecf53cf771026e6a5196.png",15:15 - 17/06 | NPL U23 A | Bulleen Lions U23 vs C.S George Cross U23
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbulleen-lions-u23-vs-c-s-george-cross-u23-luc-1515-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F65b85d05b0deb3a06a468d18546102ee.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fca5ceaed506e0773e9e20d204f4c1dab.png",16:00 - 17/06 | Hạng Nhì Việt Nam | TDTT Bac Ninh vs Ho Chi Minh City II
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftdtt-bac-ninh-vs-tp-ho-chi-minh-ii-luc-1600-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F14e3bca60085d96f7f9f32b479b2d4d6.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fad7eebd7df84b8fb1304f4a40f430ebb.png",17:00 - 17/06 | UZB D1B | Turon Nukus vs Fergana University
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fturon-nukus-vs-fergana-university-luc-1700-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F827ccb02b77bcecf10f1456f4d3505c4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fde5b4dd6648939b77f2b3eeca3182ed9.png",17:00 - 17/06 | UZB D1B | FC Bunyodkor II Chrichik vs Namangan FA
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffc-bunyodkor-ii-chrichik-vs-namangan-fa-luc-1700-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9dc56b45ded8ca060e352066ae9b4dd3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F209149a8a7752b55a878fcfafa59f677.png",17:00 - 17/06 | UZB D1B | Qoraqalpogiston FA vs Xorazm FA
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fqoraqalpogiston-fa-vs-xorazm-fa-luc-1700-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6727c508624ca23e2467ccc7c6da1803.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F18c20898164db4abe402b6a946d4c334.png",17:00 - 17/06 | UZB D1B | Nasaf Qarshi B vs Zaamin
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnasaf-qarshi-b-vs-zaamin-luc-1700-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F93b1b82a7c5646eb10ca93d7f7ab3a45.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd1a8612beab11d1d2d58926396b98356.png",17:15 - 17/06 | Australia Victorian Women's Premier League | Heidelberg United(w) vs Bulleen Lions(w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fheidelberg-united-w-vs-fc-bulleen-lions-w-luc-1100-ngay-14-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F446f201a9d293c694f54d4387db1fbd7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6dff2291fe2e822de2e8068a182c4759.jpg",17:30 - 17/06 | National Premier Leagues Victoria 2 | Kingston City vs Preston Lions
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkingston-city-vs-preston-lions-luc-1730-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F855ef04f1461ab3c19bfdad4702d21c8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe9fe5248e24a1ccdffa4af70e767ffa7.png",17:30 - 17/06 | National Premier Leagues Victoria 2 | FC Bulleen Lions vs Caroline Springs
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffc-bulleen-lions-vs-caroline-springs-luc-1730-ngay-17-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5894850a095536f4a0cf99659963a0fb.crdownload&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F19ad3a8df7411246f92daa1087782263.png",20:00 - 17/06 | UEFA European Championship | Romania vs Ukraine
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fromania-vs-ukraine-luc-2000-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff40763e705743d293364c0056abbc341.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3dd52d0f4d9de58ccdd0e54e70600884.png",23:00 - 17/06 | UEFA European Championship | Belgium vs Slovakia
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbelgium-vs-slovakia-luc-2300-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbe70130b180875a576e98a5a33c8238a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc25d791bcb75569e9e2538e6c88dcad4.png",02:00 - 18/06 | UEFA European Championship | Austria vs France
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Faustria-vs-france-luc-0200-ngay-18-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F93b1b82a7c5646eb10ca93d7f7ab3a45.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd1a8612beab11d1d2d58926396b98356.png",17:15 - 17/06 | Australia Victorian Women's Premier League | Heidelberg United(w) vs Bulleen Lions(w)
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fheidelberg-united-w-vs-fc-bulleen-lions-w-luc-1100-ngay-14-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F446f201a9d293c694f54d4387db1fbd7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6dff2291fe2e822de2e8068a182c4759.jpg",🔴 17:30 - 17/06 | National Premier Leagues Victoria 2 | Kingston City vs Preston Lions
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkingston-city-vs-preston-lions-luc-1730-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F855ef04f1461ab3c19bfdad4702d21c8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe9fe5248e24a1ccdffa4af70e767ffa7.png",🔴 17:30 - 17/06 | National Premier Leagues Victoria 2 | FC Bulleen Lions vs Caroline Springs
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffc-bulleen-lions-vs-caroline-springs-luc-1730-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5d14e91e098c3cca7380b8d804a8dde5.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe324f22cc2b336130f9c4989872de2b0.png",18:30 - 17/06 | Chinese Champions League | Chongqing Handa vs Shenzhen Jixiang
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fchongqing-handa-vs-shenzhen-jixiang-luc-1830-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1adb029996810ee88286f3170d2e539b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F04197c4ace98f54a116b898ad733bc16.png",18:30 - 17/06 | Chinese Champions League | Wuhan Lianzhen vs Changle Jingangtui FC
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fwuhan-lianzhen-vs-changle-jingangtui-fc-luc-1830-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3fc6cd6a18ccbff2e562ef40da673b03.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa87ce409ed7406748e29b0ef68e9dbba.png",19:00 - 17/06 | Hạng Nhì Việt Nam | Định Hướng vs Kon Tum
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdinh-huong-vs-kon-tum-luc-1900-ngay-17-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8305406cb1907ec50031af8164a17b26.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faafeb22e62efdea7e56af3f918e12765.png",20:00 - 17/06 | ETH WL | Dire Dawa (W) vs Hawassa City Fc (W)
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdire-dawa-w-vs-hawassa-city-fc-w-luc-2000-ngay-17-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F56c51a39a7c77d8084838cc920585bd0.jpg&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F474ab8f944e0676e1564a222ba976881.png",20:00 - 17/06 | Norwegian 3.Divisjon | Stabaek B vs Mosjoen
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fstabaek-b-vs-mosjoen-luc-2000-ngay-17-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F35e665fa4086e183fda582249d625c2b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F31f3149a6e207008059cd6bb40a4a423.png",20:00 - 17/06 | Egyptian Premier League | El Gounah vs Bank El Ahly
@@ -110,8 +108,6 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Folymp
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fzamalek-sc-vs-al-masry-luc-2300-ngay-17-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3766cad0712ddc9181a091d2d78d61c8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1bd9415259f9b04af4c6164660af9a48.png",23:00 - 17/06 | Egyptian Premier League | Ismaily SC vs Enppi
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fismaily-sc-vs-enppi-luc-2300-ngay-17-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff40763e705743d293364c0056abbc341.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3dd52d0f4d9de58ccdd0e54e70600884.png",23:00 - 17/06 | UEFA European Championship | Belgium vs Slovakia
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fbelgium-vs-slovakia-luc-2300-ngay-17-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fdfbf4209c0d740f53804110c0d055757.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F109d2dd3608f669ca17920c511c2a41e.jpg",00:00 - 18/06 | Sweden Superettan | Trelleborgs FF vs IK Brage
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftrelleborgs-ff-vs-ik-brage-luc-0000-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe121cced31de682c590d3305327061df.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0dfd8a39e2a5dd536c185e19a804a73b.jpg",00:00 - 18/06 | Sweden Damallsvenskan | BK Hacken(w) vs Vittsjo(w)
@@ -126,18 +122,20 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Foeste
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffluminense-rj-w-vs-america-mineiro-w-luc-0100-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F53fc57ac8c251acbd55f5e66738d08cc.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4a06b2d9ddef7ab86ccfe28b0f6e8e14.png",02:00 - 18/06 | Campeonato Brasileiro de Futebol Feminino Série A1 | Sao Paulo(w) vs Palmeiras Sp(w)
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsao-paulo-sp-w-vs-palmeiras-sp-w-luc-0230-ngay-18-06-2024
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbe70130b180875a576e98a5a33c8238a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc25d791bcb75569e9e2538e6c88dcad4.png",02:00 - 18/06 | UEFA European Championship | Austria vs France
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Faustria-vs-france-luc-0200-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F213564797bbfa3921e60bb314c92354b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F20bd29045f9e765f9162647ec74b9d75.png",03:00 - 18/06 | Uruguay Primera Division | CA Boston River vs Cerro Largo
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fboston-river-vs-cerro-largo-luc-0300-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F12c6896688532b1626e32ad1a4352fee.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcae7d5a2c20436ea3223a6bc30c54974.png",04:00 - 18/06 | Paraguayan Division Intermedia | Independiente Luque vs Atletico Colegiales
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Findependiente-luque-vs-atletico-colegiales-luc-0400-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1d6e986db21459576ab214617f77a380.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9682cc83216f6c36638a6fa6d01fae06.png",04:00 - 18/06 | Campeonato Brasileiro de Futebol Feminino Série A1 | SC Corinthians Paulista(w) vs Bragantino(w)
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsc-corinthians-paulista-w-vs-bragantino-w-luc-0500-ngay-18-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F76cee9291e562bc434b36a6e67164394.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F972787dfe8f88c6f31a425066fc6a341.png",05:00 - 18/06 | USL WLW | Tampa Bay Utd (w) vs Brooke House FC (W)
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ftampa-bay-utd-w-vs-brooke-house-fc-w-luc-0500-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F29f77f7dc2a7df706e171b6e91fcc607.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F731ea9512aeffe6fd2896bc1a7a60662.png",06:00 - 18/06 | Chilean Cup | Municipal Puente Alto vs Universidad de Chile
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmunicipal-puente-alto-vs-universidad-de-chile-luc-0600-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1d8d54bfe19b8bfd6d064eda3556f812.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb00cf80293dc75486dcbd1e48d17fc11.png",06:00 - 18/06 | Brazilian Serie C | Nautico vs Floresta CE
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnautico-pe-vs-floresta-ce-luc-0600-ngay-18-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff3dbdeefb497289237eabfc8225e030c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd5fcb1f5fa4781a872eb40a81563c526.png",06:00 - 18/06 | Chilean Cup | Central Norte vs CSD Antofagasta
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fcentral-norte-vs-csd-antofagasta-luc-0600-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F52d7bd077f7c8a5a1dd1c6736eee300d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F40384c85ba896ce929fea79bba59e711.png",06:00 - 18/06 | Brazilian Serie C | ABC RN vs Volta Redonda
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fabc-rn-vs-volta-redonda-luc-0600-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F77b5493326524d376843a78a2f9c8141.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa4a6213f7ab47a1da61dfea171eb6b88.png",06:15 - 18/06 | Brazilian Serie D | Trem-AP vs Princesa AM
@@ -174,61 +172,82 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffk-do
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmeizhou-hakka-fc-vs-shanghai-port-fc-luc-1835-ngay-18-06-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F25dae24c4bfc4a6fdd53d090a39821dd.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa17724405028a3e21a2a2372736aa757.png",18:45 - 18/06 | Singapore Premier League | DPMM FC vs Lion City Sailors
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdpmm-fc-vs-lion-city-sailors-luc-1845-ngay-18-06-2024
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb829c0ef04b79c2b70633d46ebc45002.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Faadbad46bc7f289a8c7e5fd68a299651.png",19:00 - 18/06 | Russian Football National League 2 | Dinamo Makhachkala B vs FK Biolog
+http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdinamo-makhachkala-b-vs-fk-biolog-luc-1900-ngay-18-06-2024
 
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-13:00 | Hạng Nhất Nữ Trung Quốc | Hebei CFFC (w) vs Guangdong Sports Lottery (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hjdqs7z54k
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-13:00 | Hạng Nhất Nữ Trung Quốc | Dalian(w) vs Fujian Nanan Guangdong(w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=zcumqexzis
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-13:00 | Hạng Nhất Nữ Trung Quốc | Sichuan (w) vs Guangxi Pingguo Beinong (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=njapqkomcg
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-13:00 | Hạng Nhất Nữ Trung Quốc | Wuhan Sports University (w) vs Shanghai Shenhua (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=0ge5240vas
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-15:15 | Hạng Nhất Nữ Trung Quốc | Foshan Sports (w) vs Qingdao West Coast(w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=x8wk9dsvi7
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-15:15 | Hạng Nhất Nữ Trung Quốc | Yunnan Antai(w) vs Liaoning Shenbei Hefeng(w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=h9smn43llp
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-15:15 | Hạng Nhất Nữ Trung Quốc | Tianjin Shengde (w) vs Beijing Normal University(W)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=oydo6urkvc
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-15:30 | VĐ Trung Quốc | Chongqing Chunlei FC vs Quanzhou Nature Qinggong Football Club
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=qicnsegp9s
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-15:30 | VĐ Trung Quốc | Wuhan Xiaomaguohe vs Guangzhou Anhua
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=zdumgnw84m
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:15 | Ngoại hạng Nữ Victoria Úc | Heidelberg United (w) vs FC Bulleen Lions (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=w5i377nh7o
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:30 | Hạng nhất Victoria Úc | FC Bulleen Lions vs Caroline Springs George Cross
+
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-17:15 | Ngoại hạng Nữ Victoria Úc | Heidelberg United (w) vs FC Bulleen Lions (w)
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ivxky0rc4o
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-17:30 | Hạng nhất Victoria Úc | FC Bulleen Lions vs Caroline Springs George Cross
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=uff9ginfu3
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:30 | Hạng nhất Victoria Úc | Kingston City vs Preston Lions
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-17:30 | Hạng nhất Victoria Úc | Kingston City vs Preston Lions
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=vpiqzvq3yk
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-18:30 | VĐ Trung Quốc | Chongqing Handa vs Shenzhen Jixiang
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=0ezhmqkc2u
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-18:30 | VĐ Trung Quốc | Wuhan Lianzhen vs Changle Jingangtui Football Club
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-18:00 | Chinese Football U.21 League | Chengdu Rongcheng U21 vs Changchun Yatai U21
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ro10ikm5cw
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-18:30 | VĐ Trung Quốc | Wuhan Lianzhen vs Changle Jingangtui Football Club
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=k9irq4pv04
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",🔴17/06-18:30 | VĐ Trung Quốc | Chongqing Handa vs Shenzhen Jixiang
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=0ezhmqkc2u
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-19:00 | Hạng Nhì Quốc Gia Việt Nam | Định Hướng vs Kon Tum
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=d4l0gjyr0u
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | UEFA Euro | Romania vs Ukraine
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=gn06w2d032
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | UEFA Euro | Romania vs Ukraine
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=cxn279upta
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | Ngoại hạng Ai Cập | El Gounah vs National Bank Egypt SC
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=t3jmj4cywj
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | UEFA Euro | Romania vs Ukraine
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=nt9vvc5686
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | UEFA Euro | Romania vs Ukraine
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=cxn279upta
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-20:00 | UEFA Euro | Romania vs Ukraine
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=gn06w2d032
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=bqih9nie2a
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-22:00 | VĐQG Uzbekistan | Lokomotiv Tashkent vs Dinamo Samarqand
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=6tmlwfkaag
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-22:00 | Hạng Hai Na Uy | Valerenga B vs Tromsdalen
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=8dq9rpaers
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | UEFA Euro | Bỉ vs Slovakia
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=obm5u4img8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | Ngoại hạng Ai Cập | Zamalek vs Al Masry
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=vyor0r2pde
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | UEFA Euro | Bỉ vs Slovakia
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=jaionlpqxb
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=9blefg9oyq
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | Ngoại hạng Ai Cập | Ismaily vs Enppi
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=99fmlubhdx
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | UEFA Euro | Bỉ vs Slovakia
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=9blefg9oyq
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | Ngoại hạng Ai Cập | Zamalek vs Al Masry
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=vyor0r2pde
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=jaionlpqxb
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-23:00 | UEFA Euro | Bỉ vs Slovakia
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=varzk417ps
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-00:00 | VĐQG Nữ Thụy Điển | BK Hacken (w) vs Vittsjo GIK (w)
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=2076ydw348
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",18/06-02:00 | UEFA Euro | Áo vs Pháp
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-02:00 | UEFA Euro | Serbia vs Anh
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ok821csbdw
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-02:00 | UEFA Euro | Áo vs Pháp
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hqcssi0jdo
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-02:00 | UEFA Euro | Serbia vs Anh
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=42bv6zay4u
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-02:00 | UEFA Euro | Serbia vs Anh
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=lo66rexua4
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-03:00 | VĐQG Uruguay | Boston River vs Cerro Largo
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=djupy4s0kf
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-06:00 | Brazilian Serie C | ABC RN vs Volta Redonda
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=st6d63zepp
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-06:00 | Brazilian Serie C | Nautico (PE) vs Floresta CE
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=w2bdygvsfv
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-06:30 | VĐQG Brazil | Atletico Mineiro vs Palmeiras
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4821hfc57t
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-07:00 | Hạng 2 Brazil | Chapecoense SC vs Operario Ferroviario PR
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=fvav6xd1mv
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-14:30 | VĐ Trung Quốc | Ningxia Pingluoxian Henli vs Lanzhou Hailu
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=bcv9vkvxu3
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-14:30 | VĐ Trung Quốc | Xian Gaoxin Yilian vs Xinjiang Silk Road Eagle
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=xr5vbxsfwp
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:00 | Cúp Australia | Oakleigh Cannons vs Avondale FC
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=jmf3kj37u6
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:00 | Ngoại hạng Úc Bắc New South Wales | PCYC Parramatta Eagles vs Camden Tigers SC
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=psbnrtb9r0
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:15 | VĐ Nữ ÚC .Queensland | Mitchelton (w) vs FQ QAS Women
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=q6lzclnkq9
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=%2F1.gif&m2=%2F1.gif",17/06-17:30 | VĐ Trung Quốc | Xinjiang Lingmengzhe Football Club vs Qinghai Xining Kunlun
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=2otk2n7koo
 
 
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",17/06/2024-20:00 | Romania vs Ukraine
