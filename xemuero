@@ -38,6 +38,9 @@ https://cdn1.tvmienphi.live:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV22 HD
 https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 
+#EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
+https://tth.vn/804FHD
+
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 1
 #https://api.wintv.me/360/2554/index.m3u8?h=1080
 https://tth.vn/tv360plus1
