@@ -8,20 +8,20 @@ https://tth.vn/LK-MAI-TIẾN-ĐẠT
 
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
-https://tth.vn/onsport-vieon
-#https://api.wintv.me/vtvcab6/index.m3u8
+#https://tth.vn/onsport-vieon
+https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-https://tth.vn/onfootball-vieon
-#https://api.wintv.me/vtvcab16/index.m3u8
+#https://tth.vn/onfootball-vieon
+https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
-https://tth.vn/onsport-news-vieon
-#https://api.wintv.me/vtvcab18/index.m3u8
+#https://tth.vn/onsport-news-vieon
+https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8?h=1080
-#https://api.wintv.me/360/2380/index.m3u8
+#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8?h=1080
+https://api.wintv.me/360/2380/index.m3u8
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest?cb=20211117121333&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV9 HD
 https://cdn1.tvmienphi.live:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
@@ -50,32 +50,32 @@ https://tth.vn/tv360plus4
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/thvl1-vieon
-#https://tth.vn/THVL1
+#https://tth.vn/thvl1-vieon
+https://tth.vn/THVL1
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/thvl2-vieon
-#https://tth.vn/THVL2
+#https://tth.vn/thvl2-vieon
+https://tth.vn/THVL2
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 (Dự Phòng 2)
-https://tth.vn/thvl1-vieon
-#https://api.wintv.me/360/25/index.m3u8
+#https://tth.vn/thvl1-vieon
+https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 (Dự Phòng 2)
-https://tth.vn/thvl2-vieon
-#https://api.wintv.me/360/26/index.m3u8
+#https://tth.vn/thvl2-vieon
+https://api.wintv.me/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 (Dự Phòng 2)
-http://xkiwi.gotdns.ch:1024/rtp/232.84.3.164:10888
-#https://api.wintv.me/360/219/index.m3u8
+#http://xkiwi.gotdns.ch:1024/rtp/232.84.3.164:10888
+https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 (Dự Phòng 2)
 https://api.wintv.me/360/220/index.m3u8
 
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://cdn1.tvmienphi.live:8444/sctv/s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
-#https://api.wintv.me/360/3/index.m3u8
+#https://cdn1.tvmienphi.live:8444/sctv/s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+https://api.wintv.me/360/3/index.m3u8
 #https://live.pipitv.top/stream/channelid/605615234?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
-#https://api.wintv.me/360/4/index.m3u8
+#https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+https://api.wintv.me/360/4/index.m3u8
 #https://live.pipitv.top/stream/channelid/681017258?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://api.wintv.me/360/110/index.m3u8
@@ -87,8 +87,8 @@ https://api.wintv.me/360/98/index.m3u8
 https://api.wintv.me/360/193/index.m3u8
 #https://live.pipitv.top/stream/channelid/60159943?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV THỂ THAO
-https://tth.vn/htv-thể-thao
-#https://api.wintv.me/360/195/index.m3u8
+#https://tth.vn/htv-thể-thao
+https://api.wintv.me/360/195/index.m3u8
 #https://live.pipitv.top/stream/channelid/316575751?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
 https://cdn1.tvmienphi.live:8444/sctv/s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8
