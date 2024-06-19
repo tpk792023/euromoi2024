@@ -6,6 +6,8 @@ https://tth.vn/LK-TUẤN-VŨ
 #EXTINF:-1 group-title="NHẠC YOUTUBE" tvg-logo="http://img.youtube.com/vi/U1Zq9el8c5U/default.jpg", liên khúc MAI TIẾN ĐẠT
 https://tth.vn/LK-MAI-TIẾN-ĐẠT
 
+#EXTINF:-1 group-title="NHẠC YOUTUBE" tvg-logo="http://img.youtube.com/vi/610PvNcZL6M/default.jpg", liên khúc ĐÊM TIỀN ĐỒN MAI TIẾN ĐẠT
+http://is.am/5xaf
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
 #https://tth.vn/onsport-vieon
