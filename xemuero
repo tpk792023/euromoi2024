@@ -141,38 +141,14 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loighd1/playlist.m3u8
 
 
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",19/06/2024-20:00 | Croatia vs Albania
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=b1sqPPr
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",19/06/2024-20:00 | Croatia vs Albania
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=nDH5lqq
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",19/06/2024-23:00 | Germany vs Hungary
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=CTq0rGY
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",19/06/2024-23:00 | Germany vs Hungary
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=yiZCxxS
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png",19/06/2024-17:00 | Quảng Nam vs Sông Lam Nghệ An
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=MHghp9x
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png",19/06/2024-18:00 | Thanh Hóa vs Khánh Hòa
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=mMcwbbX
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png",19/06/2024-19:15 | Viettel vs TP Hồ Chí Minh
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=Qas9XSr
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",19/06/2024-17:00 | Yokohama Marinos vs Hiroshima Sanfrecce
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=2NlTvr9
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/3da730dd9fcdd1805a5e384bb84e21bf.png",19/06/2024-20:00 | FK Atyrau vs Tobol Kostanai
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=h6a7qj4
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/3da730dd9fcdd1805a5e384bb84e21bf.png",19/06/2024-22:00 | FK Yelimay Semey vs FK Aktobe Lento
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=metAzXW
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://static.flashscore.com/res/image/data/QPuZBGEO-6k2UlsyF.png",19/06/2024-11:00 | Papua New Guinea vs Tahiti
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=J9CBQvy
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://static.flashscore.com/res/image/data/QPuZBGEO-6k2UlsyF.png",19/06/2024-14:00 | Samoa vs Fiji
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=YX0A74j
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",19/06/2024-19:00 | NK Publikum Celje vs Borac Banja Luka
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=7TuGwSG
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",19/06/2024-20:00 | GAIS vs Halmstads
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=xPKUFNC
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",19/06/2024-21:00 | Ludogorets Razgrad vs NK Primorje
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=hFV5yr5
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",19/06/2024-22:00 | MFK Ruzomberok vs Egnatia
-http://bentre5.hoangai.vn:8080/vebo/play.php?id=RPv4KAN
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06/2024-20:00 | Slovenia vs Serbia
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=cOwgJ22
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06/2024-20:00 | Slovenia vs Serbia
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=PgjNKVX
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06/2024-23:00 | Denmark vs England
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=DzLhJJk
+#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06/2024-23:00 | Denmark vs England
+http://bentre5.hoangai.vn:8080/vebo/play.php?id=PK3bcQH
 
 
 
