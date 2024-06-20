@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 #EXTINF:-1 group-title="YOUTUBE LIVE" tvg-logo="http://img.youtube.com/vi/UJMMwO6FkZ4/default.jpg", liên khúc tuấn vũ
 https://tth.vn/LK-TUẤN-VŨ
