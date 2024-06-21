@@ -121,22 +121,22 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #https://tth.vn/vtc1-vtcnow
 #https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC2
-https://oipf0znpmnliv.vcdn.cloud/hls/vtc2/index.m3u8
+https://api.wintv.me/vtc2/index.m3u8
 #https://tth.vn/VTC2
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC3
-https://oipf0znpmnliv.vcdn.cloud/hls/vtc3/index.m3u8
+https://api.wintv.me/vtc3/index.m3u8
 #https://tth.vn/vtc3-vtcnow
 #https://tth.vn/VTC3
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://oipf0znpmnliv.vcdn.cloud/hls/vtc4/index.m3u8
+https://api.wintv.me/vtc4/index.m3u8
 #https://tth.vn/VTC4
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://oipf0znpmnliv.vcdn.cloud/hls/vtc5/index.m3u8
 #https://tth.vn/VTC5
 #EXTINF:-1 tvg-id="vtc6hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-https://oipf0znpmnliv.vcdn.cloud/hls/vtc6/index.m3u8
+https://api.wintv.me/vtc6/index.m3u8
 #https://tth.vn/VTC6HD
 
 
