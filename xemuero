@@ -131,7 +131,8 @@ http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtc3&sct
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtc4/index.m3u8
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtc3&sct
+#https://api.wintv.me/vtc4/index.m3u8
 #https://tth.vn/VTC4
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
