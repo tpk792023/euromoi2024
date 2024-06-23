@@ -151,16 +151,7 @@ https://api.wintv.me/vtc5/index.m3u8
 https://api.wintv.me/vtc6/index.m3u8
 #https://tth.vn/VTC6HD
 
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F10f9058c0b9e30baddd944056e5416b3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa945b71c7085602c5b7f3fdce6afcf01.png",23/06-09:30 | USL Championship | Las Vegas Lights vs Memphis 901
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=sf7ir71w16
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9c5ad5227377e12b87f77790d3d88c1c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7079d708b4e391c0c26b20da7b2fb32c.png",23/06-09:30 | Major League Soccer | Los Angeles FC vs San Jose Earthquakes
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ujc65p0xxi
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd3700266512d9e222ed3a87c49876fc9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd6c87740307bf1edfc79b4b09a2dc3bf.png",23/06-09:30 | USL Championship | Phoenix Rising FC vs Charleston Battery
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=axqhij9978
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5dcc5306778fc1089f808833ac7fc477.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F527dcdb6260004a2c8f61fae9345f133.png",23/06-09:30 | Major League Soccer | Portland Timbers vs Vancouver Whitecaps
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=xn23q6260n
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fed962d3f5e2ce55c2e7d8685cfe5a61e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe829da6b3050ec03f3c8715690ec39c4.png",23/06-09:30 | Major League Soccer | Seattle Sounders vs FC Dallas
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=0b9s3mw39u
+
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7d932dfc6184b11de923cff4501fee01.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc3193d175a6db6a5a47226ca5bb30719.png",23/06-11:00 | Japan Football League | Briobecca Urayasu vs Minebea Mitsumi FC
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=u0sgm93tpp
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0e3a0039b80e7bce8f9273e032794495.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcc4fb9d6d32a8622e01db1f04536ff3c.png",23/06-11:00 | TAS Premier League | South Hobart vs Glenorchy Knights FC
@@ -209,6 +200,9 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=e6zapzplt0
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=xps796qcua
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F49d6da5b0010a9d4f25c6cb71b8255cf.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6e318c2917b8949baf2d810a7d2cbfda.png",23/06-14:30 | Ngoại Hạng Đài Loan | Taipei Power Company vs Taipei Shihu
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=vi404rlzaq
+
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w100&m2=https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png!w100",23/06-15:00 | AFF CUP U16 | Thái Lan vs Úc
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.vbfast.xyz%2Ffootball%2Fteam%2Fvjxm8gh4v0xr6od%2Fimage&m2=https%3A%2F%2Fimg.vbfast.xyz%2Ffootball%2Fteam%2F56ypq3nhy07md7o%2Fimage",22.06 - 20:00 | UEFA European Championship | Georgia vs CH Séc
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilacz54.live%2Ftruc-tiep%2Fgeorgia-vs-czech-luc-2000-ngay-22-06-2024%2F
