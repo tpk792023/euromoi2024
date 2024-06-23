@@ -133,7 +133,6 @@ https://tth.vn/theo-yêu-cầu
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC3
 #https://api.wintv.me/vtc3/index.m3u8
-#https://api.wintv.me/vtc3/index.m3u8
 https://tth.vn/vtc3-vtcnow
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
