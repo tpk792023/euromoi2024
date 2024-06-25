@@ -163,7 +163,7 @@ https://api.wintv.me/vtc6/index.m3u8
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ 90 phút" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://static.flashscore.com/res/image/data/SOm1XQAr-fw9MeDYe.png&m2=https://img.thesports.com/football/team/1052568046c27c694918905cbf403d7c.png",25/06-17:00 | V.Leageau | Vietell vs Thanh Hóa
-https://obevcimanyd179569584.thapcam.link/sGk_NKjpHqGZgM9y_9LLhg/Fv2lucGIbhPi2caWYvF5Lg/1719332485473/live/Z2FHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
+#https://obevcimanyd179569584.thapcam.link/sGk_NKjpHqGZgM9y_9LLhg/Fv2lucGIbhPi2caWYvF5Lg/1719332485473/live/Z2FHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Netherlands.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/austria1.png",25/06-23:00 | UEFA Euro | Hà Lan  vs Áo
@@ -174,9 +174,9 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/england1.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",26/06-02:00 | UEFA Euro | Anh  vs Slovenia
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",26/06-05:00 | Coppa Americar | Petu vs Cannada
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/canada.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/peru.png",26/06-05:00 | Coppa Americar | Petu vs Cannada
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@luluhd1/playlist.m3u8qhpxtq1
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",26/06-08:00 | Coppa Americar | Aghentina vs Chile
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/chile.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",26/06-08:00 | Coppa Americar | Aghentina vs Chile
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",21/06-02:00 | UEFA Euro | Ý vs Tây Ban Nha
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1/playlist.m3u8
