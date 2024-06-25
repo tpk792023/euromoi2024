@@ -158,7 +158,7 @@ https://api.wintv.me/vtc6/index.m3u8
 
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/10d4b366f410a1275f7b684f07a28456.png!w100&m2=https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w100",25/06-15:00 | AFF CUP U16 | Brunei vs Myanmar
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
+#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100&m2=https://img.thesports.com/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w100",25/06-19:30 | AFF CUP U16 | Việt Nam vs Campuchia
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1/playlist.m3u8
 
@@ -166,23 +166,23 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1/playlist.m3u8
 https://obevcimanyd179569584.thapcam.link/sGk_NKjpHqGZgM9y_9LLhg/Fv2lucGIbhPi2caWYvF5Lg/1719332485473/live/Z2FHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 
 
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w100&m2=https://img.thesports.com/football/team/9cc25407f209e031babdac7d3c520ccb.png!w100",22/06-20:00 | UEFA Euro | Georgia vs Czech
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w100&m2=https://img.thesports.com/football/team/9cc25407f209e031babdac7d3c520ccb.png!w100",22/06-20:00 | UEFA Euro | Georgia vs Czech
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w100&m2=https://img.thesports.com/football/team/9cc25407f209e031babdac7d3c520ccb.png!w100",22/06-20:00 | UEFA Euro | Georgia vs Czech
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06-23:00 | UEFA Euro | Đan Mạch vs Anh
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06-23:00 | UEFA Euro | Đan Mạch vs Anh
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8qhpxtq1
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",20/06-23:00 | UEFA Euro | Đan Mạch vs Anh
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Netherlands.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/austria1.png",25/06-23:00 | UEFA Euro | Hà Lan  vs Áo
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/france(1).png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/poland.png",25/06-23:00 | UEFA Euro | Pháp vs Ba Lan
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/denmark.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/serbia1.png",26/06-02:00 | UEFA Euro | Đan Mạch vs Serbia
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/england1.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/slovenia1.png",26/06-02:00 | UEFA Euro | Anh  vs Slovenia
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",26/06-05:00 | Coppa Americar | Petu vs Cannada
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@luluhd1/playlist.m3u8qhpxtq1
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",26/06-08:00 | Coppa Americar | Aghentina vs Chile
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",21/06-02:00 | UEFA Euro | Ý vs Tây Ban Nha
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",21/06-02:00 | UEFA Euro | Ý vs Tây Ban Nha
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",21/06-02:00 | UEFA Euro | Ý vs Tây Ban Nha
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="https://g7w1r.4shares.live/files/euro.png",21/06-02:00 | UEFA Euro | Ý vs Tây lon Nha
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loighd1/playlist.m3u8
 
 
