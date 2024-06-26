@@ -20,7 +20,7 @@ https://tth.vn/nhạc-không-lời
 https://tth.vn/Nhạc-live-bolero-mái-lá
 
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
-https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h1080
+https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=1080p
 
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
