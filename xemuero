@@ -16,6 +16,8 @@ http://is.am/5xaf
 #EXTINF:-1 group-title="NHẠC YOUTUBE" tvg-logo="http://img.youtube.com/vi/8KdpRQbAa-s/default.jpg", Thức Dậy Nghe Ngay Nhạc Không Lời ĐỈNH CAO THƯ GIÃN|Hòa Tấu Guitar Rumba Cổ Điển Ở Phòng Trà
 https://tth.vn/nhạc-không-lời
 
+#EXTINF:-1 group-title="🎵|BOLERO MÁI LAD" tvg-logo="http://img.youtube.com/vi/9HDNjaNSJu0/default.jpg", Tổng hợp ( VOL 2 ) 20 ca khúc Bolero Mái Lá - Hát Live
+https://tth.vn/Nhạc-live-bolero-mái-lá
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
 https://tth.vn/onsport-vieon
