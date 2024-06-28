@@ -160,6 +160,9 @@ https://cdn2.tvmienphi.xyz:8444/vtcnow.php?id=vtc3
 #https://api.wintv.me/vtc3/index.m3u8
 #https://tth.vn/vtc3-vtcnow
 
+#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",Phát khi có trận
+https://tth.vn/Phát-khi-có-trận
+
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtc4/index.m3u8
@@ -172,8 +175,7 @@ https://api.wintv.me/vtc5/index.m3u8
 https://api.wintv.me/vtc6/index.m3u8
 #https://tth.vn/VTC6HD
 
-#EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",Phát khi có trận
-https://tth.vn/Phát-khi-có-trận
+
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w100&m2=https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w100",28/06-15:00 | AFF CUP U16 | việt nam vs myanmar
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
