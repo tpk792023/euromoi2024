@@ -53,7 +53,8 @@ https://tth.vn/onsportnews
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8?h=1080
-https://api.wintv.me/360/2380/index.m3u8
+https://tth.vn/btv5-vtvcabon
+#https://api.wintv.me/360/2380/index.m3u8
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/SCTV3_See_TV_19-01-2023.png/revision/latest?cb=20240222060522&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV3 HD
 https://tth.vn/sctv3-kênh-thiếu-nhi
