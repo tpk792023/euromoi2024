@@ -79,8 +79,8 @@ https://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endp
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#https://api.wintv.me/360/2554/index.m3u8?h=1080
-https://tth.vn/tv360plus1
+https://api.wintv.me/360/2554/index.m3u8?h=1080
+#https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://hqth.me/media-tv360", UEFA Euro 2024 | TV360 Link 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
