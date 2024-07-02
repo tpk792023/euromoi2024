@@ -26,9 +26,9 @@ https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
-https://tth.vn/onsportplus
+#https://tth.vn/onsportplus
 #https://tth.vn/onsport-vieon
-#https://api.wintv.me/vtvcab6/index.m3u8
+https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 group-title="#| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
 https://api.wintv.me/vtvcab16/index.m3u8
