@@ -37,20 +37,21 @@ https://api.wintv.me/vtvcab16/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://s4live.tv1asia.com:21585/vtvcab7/index.m3u8
 #https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8|Referer=https://khanggtivi.xyz/
-https://tth.vn/onfootball
+https://api.wintv.me/vtvcab16/index.m3u8
+#https://tth.vn/onfootball
 #https://tth.vn/onfootball-vieon
 #http://is.am/5xb4
 #https://tth.vn/onfootball-cliptvpk
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-https://tth.vn/onfootball
+#https://tth.vn/onfootball
 #https://tth.vn/onfootball-vieon
-#https://api.wintv.me/vtvcab16/index.m3u8
+https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
-https://tth.vn/onsportnews
+#https://tth.vn/onsportnews
 #https://tth.vn/onsport-news-vieon
-#https://api.wintv.me/vtvcab18/index.m3u8
+https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8?h=1080
