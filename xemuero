@@ -24,7 +24,7 @@ https://tth.vn/Nhạc-live-bolero-mái-lá
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
 #EXTINF:-1 group-title="KÊNH UERO 1" tvg-logo="https://i.upanh.org/2024/07/03/100000757820167906fc992440.jpeg", KÊNH UERO 1
-http://103.170.123.44/vtv2?token=live&h=1080p
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv2
 #EXTINF:-1 group-title="KÊNH UERO 2" tvg-logo="https://i.upanh.org/2024/07/03/1000007579661a23a5ff59d995.jpeg", KÊNH UERO 2
 http://103.170.123.44/vtv3?token=live
 
