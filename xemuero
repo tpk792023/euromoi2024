@@ -163,7 +163,8 @@ https://tth.vn/thvl2-thvli
 #https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC1
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+https://cdn2.tvmienphi.xyz:8444/vtcnow.php?id=vtc1
+#https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #https://tth.vn/vtc1-vtcnow
 #https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| NEXT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",NEXT SPORT
