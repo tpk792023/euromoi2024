@@ -23,6 +23,10 @@ https://tth.vn/Nhạc-live-bolero-mái-lá
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
+#EXTINF:-1 group-title="KÊNH UERO 1" tvg-logo="https://i.upanh.org/2024/07/03/100000757820167906fc992440.jpeg", KÊNH UERO 1
+http://103.170.123.44/vtv2?token=live
+#EXTINF:-1 group-title="KÊNH UERO 2" tvg-logo="https://i.upanh.org/2024/07/03/1000007579661a23a5ff59d995.jpeg", KÊNH UERO 2
+http://103.170.123.44/vtv3?token=live
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
 #https://tth.vn/onsportplus
