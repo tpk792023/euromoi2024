@@ -124,7 +124,8 @@ https://api.wintv.me/vl2/index.m3u8
 #https://tth.vn/THVL2
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 (Dự Phòng 2)
 #https://tth.vn/thvl1-vieon
-https://api.wintv.me/360/25/index.m3u8
+https://linkxink.net/thvl1-thvli
+#https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 (Dự Phòng 2)
 #https://tth.vn/thvl2-vieon
 https://api.wintv.me/360/26/index.m3u8
