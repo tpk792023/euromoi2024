@@ -244,8 +244,24 @@ https://api.wintv.me/vtc6/index.m3u8
 #EXTINF:-1 group-title="⚽ Xôi Lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/3068cfc254b9a77c7eac84c9565eeeab.png!w60&m2=https://img.thesports.com/football/team/907e2779e977021ba257d4704ad497c0.png!w60",28/06-08:00 | Coppa America | Uruguay vs Bolivia
 #https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001719534761-0-0-4f20bc50985dca1fbd8083d9a3dc3aa1
 
-
-
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbced686ea9d08190520be6eaaa6edf0b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe2f7aa9acaea085ee66204e753fc9560.png",04/07-08:00 | USL Championship | New Mexico United vs Orange County Blues FC | BLV: Giàng A Lú
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=r4a337jf3b
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F034aa8d5c235ad084486780eb8a6d914.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbd4e01004e8b869ee06f5cc401cba4bd.png",04/07-08:00 | USL League One | Northern Colorado vs Central Valley Fuego
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=rxc84do2uk
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F98a89cba4bbd10c0ceb437d8f795d43b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2d21e6bbd505075b1bc6df8b5a887e8f.png",04/07-08:30 | Major League Soccer | Real Salt Lake vs Houston Dynamo | BLV: Giàng A Mèo
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=6zhdafefj0
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe2ee59096dca5411532787f1c5b4cc8e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc0125433f2bc40099c202b52dbc16afd.png",04/07-09:00 | Nicaragua Cup | Managua FC vs Juventus Managua
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=gw054h7vmy
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb6abc1cdf2df183dbe5aea9b8dcbda4b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F10f9058c0b9e30baddd944056e5416b3.png",04/07-09:30 | USL Championship | Sacramento Republic FC vs Las Vegas Lights | BLV: Giàng A Cay
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=p8f2xvc259
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0011800200177bdd6d5197b2bd13e8d9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4a674bf2855b234d5c9e9fa7394508ad.png",04/07-12:30 | VĐ Trung Quốc | Changchun XIdu Football Club vs Heze Caozhou football club | BLV: Giàng A Chuối
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4yjwtty6o1
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3746e3fba62790b0f2694bf858180c04.png&m2=https%3A%2F%2Fsecure.cache.images.core.optasports.com%2Fsoccer%2Fteams%2F150x150%2F65249.png",04/07-14:30 | Chinese Football U.21 League | Zhejiang Professional FC U21 vs Shenzhen Peng City U21
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=fw3xagic1p
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6e430bcd7d32f560db81fc932a666bdb.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F812fe9f75f7c0dcb2215df5594441412.png",04/07-14:30 | Chinese Football U.21 League | Shanghai Shenhua U21 vs Changchun Yatai U21
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ptdkbq5h7j
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbb8f464ad2285e7c5e861fc52592e31e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcbfe0c7241d8b30e4e5b768b35666e1f.png",04/07-15:00 | VĐ Trung Quốc | Yantai Ruixiang vs Yanbian Sports School | BLV: Giàng A Lú
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ve9wzrkb0q
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/1f8d87e1161af68b81bace188a1ec624.png!w100&m2=https://img.thesports.com/football/team/fb9d433088a21464e7d634c4e190b31a.png!w100",02/07-23:00 | UEFA Euro | ROMANI vs HÀ LAN
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
