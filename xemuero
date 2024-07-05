@@ -256,7 +256,9 @@ http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeM
 
 
 #EXTINF:-1 group-title="⚽ Xôi Lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png&m2=https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/ecuador.png",05/07-08:00 | Coppa America | Aghentina vs Ecuador
-http://bentre5.hoangai.vn:8082/weblau/xoilac/play.php?id=vwpdUpg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A236E Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36
+https://obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
+#http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/171976303168
 
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F82e983f2d2d1bd402a37a6b00ec4c539.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5eedb85f4f89c40b74fae499071c140b.png",🔴04/07-22:45 | Giao Hữu Câu Lạc Bộ | FC Sonthofen vs Schalke 04 (Youth)
@@ -354,8 +356,8 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@hplushd1/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png",05/07-08:00 | Coppa America | Aghentina vs Ecuador
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4yjwtty6o1.html?link=1
-#https://2576277975.global.cdnfastest.com/live/HANGVU.m3u8
+#http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4yjwtty6o1.html?link=1
+https://2576277975.global.cdnfastest.com/live/HANGVU.m3u8
 #EXTINF:-1 group-title="⚽ Lương Sơn TV" tvg-logo="https://cdns1.553328.com/static/media/btn-cuocngay.87668c7d93953c718669.png", 05/07-08:00 | Coppa America | Aghentina vs Ecuador
 #http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4yjwtty6o1.html?link=7
 https://2576277975.global.cdnfastest.com/live/TONGGIANG.m3u8
