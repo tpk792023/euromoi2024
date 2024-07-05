@@ -31,7 +31,8 @@ https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 https://linkxink.net/uero2024
 #http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv2
 #EXTINF:-1 group-title="KÊNH UERO 2" tvg-logo="https://i.upanh.org/2024/07/03/1000007579661a23a5ff59d995.jpeg", KÊNH UERO 2
-http://103.170.123.44/vtv3?token=live
+https://live-eu-pzybaks9eeliv.thapcam.link/098e7c710a31c2cec3ed47e0accf4919/1720216339316/live/may71/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
+#http://103.170.123.44/vtv3?token=live
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
 #https://tth.vn/onsportplus
