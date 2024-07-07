@@ -241,7 +241,7 @@ https://api.wintv.me/vtc6/index.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@loihd1/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽ 90 phút" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100&m2=https://img.thesports.com/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w100",06/07-08:00 | Coppa America | VENEZUELA vs CANADA
-http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8
+#http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8
 #https://obevcimanyd179569584.thapcam.link/9jaMvo705KsgNxcK7wdFZA/Fv2lucGIbhPi2caWYvF5Lg/1719582670356/live/may1FHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179591709.thapcam.link/iZDn7TEWED6pCfhoc5mzFA/Fv2lucGIbhPi2caWYvF5Lg/1719641307510/live/may11/playlist.m3u8
 #https://obevcimanyd179591709.thapcam.link/K80mDmOoKjkBZYW4TnEezQ/Fv2lucGIbhPi2caWYvF5Lg/1719699495292/live/may11/playlist.m3u8|Referer=https://xem.bdhub.xyz/
@@ -268,127 +268,8 @@ http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeM
 
 #EXTINF:-1 group-title="⚽ Xôi Lạc" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100&m2=https://img.thesports.com/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w100",06/07-08:00 | Coppa America | VENEZUELA vs CANADA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A236E Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36
-https://obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
+#https://obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/171976303168
-
-
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/9vjxm8ghp76r6od/image",🔴 07.07 - 13:45 | Australia New South Wales Women\'s League | Nữ NSW Institute vs Nữ Manly Utd
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fnu-nsw-institute-vs-nu-manly-utd-luc-1345-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/v2y8m4zh302ql07/image",🔴 07.07 - 13:15 | QLD Premier League | Wanderers FC vs Brisbane Wolves
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fwanderers-fc-vs-brisbane-wolves-luc-1315-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/e4wyrn4h8z1q86p/image",🔴 07.07 - 13:00 | Victorian State Division 1 | Western United FC NPL vs Melbourne City NPL
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fwestern-united-fc-npl-vs-melbourne-city-npl-luc-1300-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/e4wyrn4hg1q86pv/image",🔴 07.07 - 13:00 | JFL | Reinmeer Aomori FC vs FC Tiamo Hirakata
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Freinmeer-aomori-fc-vs-fc-tiamo-hirakata-luc-1300-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/e4wyrn4hg1q86pv/image",🔴 07.07 - 13:00 | JFL | Maruyasu Industries vs Sony Sendai
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fmaruyasu-industries-vs-sony-sendai-luc-1300-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/vl7oqdeh7pr510j/image",🔴 07.07 - 13:00 | Japanese J3 League | Fukushima United FC vs Imabari FC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Ffukushima-united-fc-vs-imabari-fc-luc-1300-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/56ypq3nh006md7o/image",🔴 07.07 - 12:30 | South Australia State League 1 | Adelaide Victory vs Western Strikers SC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fadelaide-victory-vs-western-strikers-sc-luc-1230-ngay-29-06-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhxjvqvy9/image",🔴 07.07 - 12:00 | Australian Welsh League | Canterbury Bankstown FC vs Bulls Academy
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fcanterbury-bankstown-fc-vs-bulls-academy-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kdj2ryohkvzq1zp/image",🔴 07.07 - 12:00 | Australia National Premier Leagues Capital Football 1 | Canberra FC vs Monaro Panthers
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fcanberra-fc-vs-monaro-panthers-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kdj2ryohkvzq1zp/image",🔴 07.07 - 12:00 | Australia National Premier Leagues Capital Football 1 | Tuggeranong United vs Yoogali SC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Ftuggeranong-united-vs-yoogali-sc-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/yl5ergphn1kr8k0/image",🔴 07.07 - 12:00 | QLD D2 | Ipswich knights SC vs Maroochydore
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fipswich-knights-sc-vs-maroochydore-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z318q66hoz1qo9j/image",🔴 07.07 - 12:00 | NSW Premier League | Wollongong Wolves vs Sydney Olympic
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fwollongong-wolves-vs-sydney-olympic-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/9dn1m1gh4vgmoep/image",🔴 07.07 - 12:00 | VIC Premier League | St Albans Saints vs Heidelberg United
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fst-albans-saints-vs-heidelberg-united-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/9dn1m1gh4vgmoep/image",🔴 07.07 - 12:00 | VIC Premier League | St Albans Saints vs Heidelberg United
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fst-albans-saints-vs-heidelberg-united-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z318q66hoz1qo9j/image",🔴 07.07 - 12:00 | NSW Premier League | Coast Mariners (R) vs Marconi Stallions
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fcoast-mariners-r-vs-marconi-stallions-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z318q66hoz1qo9j/image",🔴 07.07 - 12:00 | NSW Premier League | Sydney United 58 FC vs Blacktown City Demons
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fsydney-united-58-fc-vs-blacktown-city-demons-luc-1200-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/e4wyrn4h8z1q86p/image",🔴 07.07 - 12:00 | Victorian State Division 1 | Melbourne Victory FC (Youth) vs Werribee City
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fmelbourne-victory-fc-youth-vs-werribee-city-luc-1100-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/8y39mp1hj99mojx/image",🔴 07.07 - 11:30 | NSW-N Premier League | Weston Workers FC vs Valentine
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fweston-workers-fc-vs-valentine-luc-1130-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/8y39mp1hj99mojx/image",🔴 07.07 - 11:30 | NSW-N Premier League | Charleston City Blues vs Newcastle Olympic
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fcharleston-city-blues-vs-newcastle-olympic-luc-1130-ngay-07-07-2024%2F
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/v2y8m4zh302ql07/image",07.07 - 13:30 | QLD Premier League | Brisbane Olympic vs Peninsula Power
-http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=https%3A%2F%2Fxoilaczcc.tv%2Ftruc-tiep%2Fbrisbane-olympic-vs-peninsula-power-luc-1330-ngay-07-07-2024%2F
-
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa2f47271892fb491ffab880158419ca0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffcca8f242592a5609c57393694356bbe.png",🔴07/07-12:00 | Ngoại hạng Úc New South Wales | Sydney United 58 FC vs Blacktown City Demons
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=z405u4figi
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4fb5aa88cc8da7f423153dc206233c37.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe1605aa2375e5aa780e43e89a0f1b080.png",🔴07/07-12:00 | Ngoại hạng Úc New South Wales | Central Coast Mariners (Youth) vs Marconi Stallions
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hts69tysvo
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fefae44ec97227dca2a2b38a19823a2f2.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd4a819a35678fd3d1c1f3e45c16f00b5.png",🔴07/07-12:00 | Ngoại hạng Úc New South Wales | Wollongong Wolves vs Sydney Olympic
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4dhffsx6oo
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff492a7a07b9d72c444cc5e6a3f990603.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5cae62255ca170949672a7ce8999b094.png",🔴07/07-12:00 | Ngoại hạng Úc Victoria | St Albans Saints vs Heidelberg United | BLV: Giàng A Sún
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hrq8mh94dh
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4442adaa19047493e57bd4f5108766a0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4f4cbf1a987de430f742605559680f2c.png",🔴07/07-12:00 | Queensland 2 (Úc) | Ipswich knights SC vs Maroochydore
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=2l3xwftdov
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0e8a5b04bcb76a376d0f0ddf9f54fbaa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc71f1b5e71c63b84bf7bad3e8c519198.png",🔴07/07-12:00 | Hạng nhất Canberra .Úc | Canberra FC vs Monaro Panthers
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=qjh3nted5r
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F725b21909119a9d48e0328b1c0da11aa.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5bb87aeb62845bab1e7ab57f88c3a1ea.png",🔴07/07-12:00 | Hạng nhất Canberra .Úc | Tuggeranong United vs Yoogali SC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=wt66abbbjd
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5eefc68533b087e949e4fb09f70889b9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F978b618556d660a58857523d14d3f741.png",🔴07/07-13:00 | Hạng 3 Nhật Bản | Fukushima United FC vs Imabari FC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=vuggt4dgey
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc6dc27ef482d8f04decd3ffd08d941c9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb49cc3f6e7e8cf4400978ffcd64698fe.jpg",🔴07/07-13:00 | Japan Football League | Reinmeer Aomori FC vs FC Tiamo Hirakata
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=13q5e24d5u
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5e9c5787e22ccc293bd023543dc8ec7f.png%21w60&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc438eb5f92d078639363ca77a538d67c.png",🔴07/07-13:00 | Japan Football League | Maruyasu Okazaki vs Sony Sendai | BLV: Giàng A Phủ
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=x11hmmhqbg
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc1c3f0f2b0eb7d7667f4b3ca3c75b2d5.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F62ee76fc01732a90a87f98940d031d6e.png",🔴07/07-13:15 | VĐ Queensland (Úc) | Sunshine Coast Wanderers FC vs Brisbane Wolves
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=6a0258fbg9
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7f291910f4d25f651ce0cc1ba097f774.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1fb0f48eaeeab5946deb0073f4163eac.png",🔴07/07-13:30 | VĐ Queensland (Úc) | Brisbane Olympic United FC vs Peninsula Power
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=fet8kx8hvp
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4d6371e7e93bac3c71d8762abe62292b.jpg&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0d1f1b54a521fc860c0e78b5ff1edd0d.png",07/07-14:00 | Vô Địch Philippines | Philippine Air Force vs Philippine Army
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=ga5wdzc4vv
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F439b6ce751392e8c69194066ef6a9c10.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F71ff7ef0ad9a020d73ac9ef1a5cd6233.png",07/07-14:00 | VĐ Nữ ÚC .Queensland | Capalaba (w) vs Gold Coast Knights (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=l7tc7xi850
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3728683390847f335552d077cf0b8752.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F21b95f24eea9500e1147ed57a68a3ff8.png",07/07-14:00 | Ngoại hạng Úc Victoria | South Melbourne vs Dandenong Thunder | BLV: Giàng A Heo
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=iga039wlyo
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1282b95dbcf15f8e2c861f14501b2849.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F78bda1278ab3012d029cb428fde95934.png",07/07-14:00 | VĐ Nữ ÚC .Queensland | Souths United SC (w) vs Peninsula Power (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=e838ih49pa
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F12fc010607cff0b37473294de2b6726c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F6206e9ddf0c739fdcc8c0a7a9dbeec35.png",07/07-15:00 | Hạng hai Trung Quốc | Shanghai Port Ⅱ vs Guangzhou E-Power FC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=w0s0b58w8k
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3a3e3c6461bf454d4a621b56bf1dbc46.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4dfc08afd10a8aa30aa5655918faf2c7.png",07/07-15:00 | Hạng hai Trung Quốc | Langfang City of Glory vs Nantong Haimen Codion
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=35ixm90b94
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa52eb098139acf5a0a4ccfa5c9ce04f4.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ff98cc0e192f6a8c68f2fa10741804d2b.png",07/07-15:00 | Hạng 3 Hàn Quốc | Busan Transportation Corporation vs Gyeongju KHNP | BLV: Giàng A Bịp
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=a5y29kmjjf
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F939efe234ca3f91c42df88abb1dfa395.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8c351a1504dd19cd202007c9c83990c2.png",07/07-16:00 | Hạng 3 Nhật Bản | Kamatamare Sanuki vs FC Ryukyu | BLV: Thợ Lặn
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=fo1elyvhpj
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4de419832b652eaf67a20d1c964bcc02.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fea53743f7d56c2bdff6b594fa6d0d833.png",07/07-16:00 | Hạng 3 Nhật Bản | Nara Club vs Yokohama SCC | BLV: Giàng A Cay
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=zuie9cl0tx
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbd461f24b9bff7f868e9b94d80978e10.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffe1a5738c1425376fecf86af7d2d0dc6.png",07/07-16:00 | FNL 2 | Irkutsk vs Zenit 2 St. Petersburg
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=17ydtrbk77
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0fa22db02182e418b4982b5be594bdf9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd1bba4fe3e0e715cf55d89f74aa65bd2.png",07/07-16:00 | Vô Địch Myanmar | Ayeyawady united vs Yadanabon FC | BLV: Giàng A Cỏ
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=j6mtujwjqp
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F81591ca25d2179a9877ec9c24bbe59e3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F406ca14f2a4772451935dac64313c574.png",07/07-16:00 | Vô Địch Myanmar | Shan United vs Myawady
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=2ahjwspf63
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0743eedb3188c087048fc440549ee7bb.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd11e7b66154d49ca257a2f1675f92ae2.png",07/07-16:00 | FNL 2 | Spartak 2 Moscow vs FC Tver
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=clrpsbsh82
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fec2dbd5c069753ced4b26b40d826ae60.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fcedcdd34e29ad6d4e468657ebc0056a6.png",07/07-16:30 | VĐQG Nữ Việt Nam | Ho Chi Minh City B (w) vs CLB TPHCM (w) | BLV: Giàng A Mèo
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=i1csrrf3q8
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd6a96f7603b190bb46e2de96cf41d9a0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbecd43ab1a8ed0594efc2a513b1c33e4.png",07/07-16:30 | Vô Địch Myanmar | Hantharwady United vs Dagon Port | BLV: Giàng A Heo
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=qdwoxfbfum
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3ab860899feae0776dadf1466129bd7f.jpg&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F48c639a4b55669182fd011ace2895b0c.png",07/07-16:30 | VĐQG Nữ Việt Nam | Son La (w) vs TNG Thai Nguyen (w)
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=au6kung75o
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F245a4f7a41f7cba122b5bec34a26e301.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F99bbb690111a8b55486071d83e19a252.png",07/07-16:45 | Vô Địch Philippines | FC Meralco Manila vs Mendiola FC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=sq5udbm1nk
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbf0e2229b39b6cb6fd17e9d0f3fb747e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7d6fa50ea67cde7d66612a8189897ba5.png",07/07-17:00 | J1 League | Avispa Fukuoka vs Kyoto Sanga | BLV: Giàng A Mõm
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=3uhon1fiah
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8e7b44dbb29bd144d9b098b6c4e50844.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F9fc7c3b6a6270f908d9853254dc648ad.png",07/07-17:00 | K League 1 | Gangwon FC vs Gwangju Football Club | BLV: H+
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=8bt465b7h1
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fada2fba6258d87de3a01849042b87a2c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc9a0608e7d56439eafe4b333d8ccbc73.png",07/07-17:00 | J2 League | Ehime FC vs Thespa Kusatsu | BLV: Giàng A Lú
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=4r53tkxduj
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa17724405028a3e21a2a2372736aa757.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F60ec3eff9d5505195d32364a32670d36.jpg",07/07-17:00 | VĐQG Singapore | Lion City Sailors vs Tanjong Pagar Utd
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=t9ere6smmj
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F28cfa007816ce65624b2ae520890dd2c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb0433b87b9ce8fd60011eb17656a23a3.png",07/07-17:00 | K League 1 | Daejeon Citizen vs Jeonbuk Hyundai Motors | BLV: Giàng A Páo
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=t99l5d8klb
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F72ddcfc0580246d108a9ea0b205a9956.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3b748d71ceee359ab6cdd2b169d617a9.png",07/07-17:00 | Hạng 3 Hàn Quốc | Yeoju Sejong vs Ulsan Citizens
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=k8qhvetypf
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F789c9d85857cdfab9c8a8808618bd92e.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3f4d8a34d2f0b65f0715dc09fd8a9d1b.png",07/07-17:00 | K League 2 | Ansan Greeners FC vs Jeonnam Dragons | BLV: Giàng A Sún
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=8mfavtr3xn
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F41bf76c7993167153b542301200eb21b.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0262cd8557bd8e59f98459ebf8790efc.png",07/07-17:00 | Hạng 3 Hàn Quốc | Mokpo City vs Daegu FC II
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=dp8hzyw4ge
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa9c344b4196017fb183285a2fabd0b3f.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb25d37216425034b6695ec3c3119d07d.png",07/07-17:00 | K League 2 | Chungbuk Cheongju FC vs Seoul E-Land FC
-http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hz8tti9jyw
 
 
 
@@ -401,7 +282,7 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=hz8tti9jyw
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/JX_2vCRjQLXMGtyoSVRp-A/Fv2lucGIbhPi2caWYvF5Lg/1719783098160/live/Z1FHD/chunklist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100&m2=https://img.thesports.com/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w100",06/07-08:00 | Coppa America | VENEZUELA vs CANADA
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
+#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/2d7f3f6e23f7cb31f2209ab8cc8f47a4.png!w100&m2=https://img.thesports.com/football/team/10b2b8698ea0385652248b0a93b86a57.png!w100",03/07-08:00 | Coppa America | COSTARICA vs PARAGUAY
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/652f72cf824d752d94375426a432e86d.png&m2=https://img.thesports.com/football/team/4957af27b99fcb8b1be641ace974d020.png",02/07-10:00 | Quốc Gia Belaurus | Tigres(w) và Monterrey (w)
