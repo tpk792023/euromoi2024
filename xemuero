@@ -167,7 +167,7 @@ https://api.wintv.me/vtv3/index.m3u8
 https://api.wintv.me/vtv5/index.m3u8
 #https://api.wintv.me/360/110/index.m3u8
 #https://live.pipitv.top/stream/channelid/809837702?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/RbYt1so.png", VTV Cần Thơ
 https://api.wintv.me/vtv6/index.m3u8
 #https://api.wintv.me/360/98/index.m3u8
 #https://live.pipitv.top/stream/channelid/989913226?profile=pass
