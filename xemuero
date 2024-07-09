@@ -97,22 +97,26 @@ https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://wintv.fun/360/2554/index.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/55.m3u8
+#https://wintv.fun/360/2554/index.m3u8
 #https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://linkxink.net/3602
-https://wintv.fun/360/1/index.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
+#https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://wintv.fun/360/148/index.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
+#https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://wintv.fun/360/2458/index.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
+#https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1 HD
