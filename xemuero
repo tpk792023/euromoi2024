@@ -163,7 +163,7 @@ https://api.wintv.me/vtv3/index.m3u8
 #https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
 #https://api.wintv.me/360/4/index.m3u8
 #https://live.pipitv.top/stream/channelid/681017258?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://imgur.com/a/88UV8RF", VTV5
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/pcRDicy.png", VTV5
 https://api.wintv.me/vtv5/index.m3u8
 #https://api.wintv.me/360/110/index.m3u8
 #https://live.pipitv.top/stream/channelid/809837702?profile=pass
