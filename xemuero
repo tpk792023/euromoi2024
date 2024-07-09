@@ -175,13 +175,13 @@ https://api.wintv.me/vtv6/index.m3u8
 https://api.wintv.me/htv7/index.m3u8
 #https://api.wintv.me/360/193/index.m3u8
 #https://live.pipitv.top/stream/channelid/60159943?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV THỂ THAO
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/UttGGUW.png", HTV THỂ THAO
 https://tth.vn/htv-thể-thao
 #https://api.wintv.me/360/195/index.m3u8
 #https://live.pipitv.top/stream/channelid/316575751?profile=pass
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
-#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2
+#EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/MsHdGNZ.png", THVL2
 https://tth.vn/thvl2-thvli
 #https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 
