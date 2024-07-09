@@ -84,7 +84,7 @@ https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpo
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV15 HD
 #https://hqth.me/sctv25hdpk|Referer=https://sctvonline.vn/
-https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest?cb=20240131092112&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV17 HD
