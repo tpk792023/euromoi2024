@@ -80,7 +80,7 @@ https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest?cb=20211117121333&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV9 HD
 #https://hqth.me/sctv9pk79|Referer=https://sctvonline.vn/
-https://sv.tvmienphi.live/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
+https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV15 HD
 #https://hqth.me/sctv25hdpk|Referer=https://sctvonline.vn/
