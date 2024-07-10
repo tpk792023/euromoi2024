@@ -32,7 +32,8 @@ https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
 #EXTINF:-1 group-title="KÊNH UERO 1" tvg-logo="https://i.upanh.org/2024/07/03/100000757820167906fc992440.jpeg", KÊNH UERO 1
 #http://bentre5.hoangai.vn:8080/vebo/phatlai.php?id=bIN5W0x
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/60.m3u8
+https://api.wintv.me/vtv2/index.m3u8
+#http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/60.m3u8
 #https://wintv.fun/360/3/index.m3u8
 #https://linkxink.net/uero2024
 #http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv2
