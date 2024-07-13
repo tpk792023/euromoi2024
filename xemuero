@@ -191,7 +191,8 @@ https://api.wintv.me/htv7/index.m3u8
 #https://api.wintv.me/360/193/index.m3u8
 #https://live.pipitv.top/stream/channelid/60159943?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/UttGGUW.png", HTV THỂ THAO
-http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/68.m3u8
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=htvthethao
+#http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/68.m3u8
 #https://tth.vn/htv-thể-thao
 #https://api.wintv.me/360/195/index.m3u8
 #https://live.pipitv.top/stream/channelid/316575751?profile=pass
