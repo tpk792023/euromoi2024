@@ -106,29 +106,29 @@ https://cdn1.tvmienphi.xyz:8444/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #http://bentre5.hoangai.vn:8082/youtube/play.php?id=9FhSKjXmUM0
-https://live-bd2.tv360.vn/hQE0vD4yL9OH56DtZcCPbA/1720958691/manifest/sukien/playlist_sukien-1080p-35M.m3u8?manifestfilter=video_bitrate:1-4400000&uid=19680
-#http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/55.m3u8
+#https://live-bd2.tv360.vn/hQE0vD4yL9OH56DtZcCPbA/1720958691/manifest/sukien/playlist_sukien-1080p-35M.m3u8?manifestfilter=video_bitrate:1-4400000&uid=19680
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/55.m3u8
 #https://wintv.fun/360/2554/index.m3u8
 #https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://linkxink.net/3602
-https://live-bd2.tv360.vn/sKt2ljMSbdv5KRgJhNWCwg/1720958811/manifest/u23-dubaicup2/playlist_1080p-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=19680
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://live-evg4.tv360.vn/vpPsgG2TIo84FG90JmAaDQ/1720958919/manifest/Su_Kien_3/playlist_1080p.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://live-evg4.tv360.vn/V28Z9zpjwED2E06sGSJ5xw/1720959078/manifest/Su_Kien_4/playlist_1080p.m3u8
-#http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
+#https://live-evg4.tv360.vn/V28Z9zpjwED2E06sGSJ5xw/1720959078/manifest/Su_Kien_4/playlist_1080p.m3u8
+http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
 #https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
