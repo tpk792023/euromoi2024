@@ -44,7 +44,8 @@ https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
 #EXTINF:-1 group-title="KÊNH U19 ASIAN 1" tvg-logo="https://i.imgur.com/3HWeEV7.png", KÊNH U19 ASIAN 1
 #http://bentre5.hoangai.vn:8080/vebo/phatlai.php?id=bIN5W0x
-http://is.am/5xv3|Referer=https://sk.mediastation.live/index.m3u8
+#http://is.am/5xv3|Referer=https://sk.mediastation.live/index.m3u8
+http://is.am/5xv5|Referer=https://sk.mediastation.live/index.m3u8
 #https://api.wintv.me/vtv2/index.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/60.m3u8
 #https://wintv.fun/360/3/index.m3u8
