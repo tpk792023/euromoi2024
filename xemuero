@@ -355,7 +355,7 @@ https://api.wintv.me/vtc6/index.m3u8
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/171976303168
 
 
-EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/56ypq3nhpkmd7oj/image",🔴 19.07 - 07:30 | Siêu Cúp Nam Mỹ | Cerro Porteno vs Atl. Paranaense
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/56ypq3nhpkmd7oj/image",🔴 19.07 - 07:30 | Siêu Cúp Nam Mỹ | Cerro Porteno vs Atl. Paranaense
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fcerro-porteno-vs-atl-paranaense-luc-0730-ngay-19-07-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/gpxwrxlho4ryk0j/image",🔴 19.07 - 07:30 | Brazilian Youth League | Fortaleza (R) vs Ceara (R)
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Ffortaleza-r-vs-ceara-r-luc-0730-ngay-19-07-2024%2F
@@ -395,6 +395,8 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fmalay
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnice-vs-leganes-luc-1530-ngay-19-07-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/gpxwrxlhgpryk0j/image",19.07 - 15:30 | Giao Hữu CLB | Persib Bandung vs PSM Makassar
 http://bentre5.hoangai.vn:8082/weblau/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fpersib-bandung-vs-psm-makassar-luc-1530-ngay-19-07-2024%2F
+
+
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F053969e26d843de456e0265abd3f008a.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0840bace9b911b3f0dbadb710ea20316.png",🔴19/07-06:00 | Hạng 2 Brazil | Vila Nova vs Santos
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=t4atov9br0
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F70c92764e181ce7abe6176c411a93fe3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffd3230c7fa4ad7bde28c640f2f32ca43.png",🔴19/07-06:00 | VĐQG Colombia | Atletico Bucaramanga vs Atletico Junior Barranquilla | BLV: Giàng A Mèo
@@ -469,7 +471,10 @@ http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=kwkqva2w4i
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=wgxkvr9ap1
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Ffb152b2e407858cca39e2be9cea077c3.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8eb4b4c01bf3375828c5494c2f6e7685.png%21w100",19/07-21:30 | UEFA European U19 Championship | Đan Mạch U19 vs Pháp U19 | BLV: Xi Măng
 http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=uqr8suvqnn
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F6JD8bHeM-KpYPsHfJ.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8a9b1c4d82392bb61e0161e5e2e9243d.png",19/07-
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2F6JD8bHeM-KpYPsHfJ.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8a9b1c4d82392bb61e0161e5e2e9243d.png",19/07-21:30 | Hạng Nhất Belarus | Torpedo-2 Zhodino vs Lokomotiv Gomel
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=xpd3kgimz1
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0c32d507c2e7d454612e1ada7f4359bf.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa498155dccb9e11f012d3527b2475fe2.png",19/07-22:00 | Hạng Nhất Belarus | Kommunalnik Slonim vs Energetik-BGU Minsk
+http://bentre5.hoangai.vn:8082/weblau/cakhia/play.php?id=9tc4gtby0x
 
 
 
