@@ -169,25 +169,25 @@ https://vod-ali1.tv360.vn/video1/2024/07/15/04/ac618a1c/ac618a1c-8d9a-4f3b-9f68-
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://linkxink.net/3602
-http://is.am/5xvf
+#http://is.am/5xvf
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
-#https://wintv.fun/360/1/index.m3u8
+https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://is.am/5xvg
+#http://is.am/5xvg
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
-#https://wintv.fun/360/148/index.m3u8
+https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://live-evg4.tv360.vn/V28Z9zpjwED2E06sGSJ5xw/1720959078/manifest/Su_Kien_4/playlist_1080p.m3u8
-http://is.am/5xvh
+#http://is.am/5xvh
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
-#https://wintv.fun/360/2458/index.m3u8
+https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1 HD
