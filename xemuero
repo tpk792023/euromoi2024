@@ -221,7 +221,8 @@ https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
 #EXTINF:-1 tvg-id="Baclieuhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png", BẠC LIÊU HD
-https://api.wintv.me/360/38/index.m3u8
+http://wintv.fun/360/38/index.m3u8
+#https://api.wintv.me/360/38/index.m3u8
 #http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.61:30120
 #https://linkxink.net/baclieu-btv
 
@@ -244,18 +245,21 @@ https://api.wintv.me/vl2/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 (Dự Phòng 2)
 #https://tth.vn/thvl1-vieon
 #https://linkxink.net/thvl1-thvli
-https://api.wintv.me/360/25/index.m3u8
+http://wintv.fun/360/25/index.m3u8
+#https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 (Dự Phòng 2)
 #https://tth.vn/thvl2-vieon
 #https://linkxink.net/thvl2-thvli
-https://api.wintv.me/360/26/index.m3u8
+http://wintv.fun/360/26/index.m3u8
+#https://api.wintv.me/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 (Dự Phòng 2)
 #http://xkiwi.gotdns.ch:1024/rtp/232.84.3.164:10888
 #http://is.am/5xep
 #https://hqth.me/thvl3-thvli
 #https://tth.vn/ypuP
 #https://tth.vn/thvl3-vieonpk
-https://api.wintv.me/360/219/index.m3u8
+http://wintv.fun/360/219/index.m3u8
+#https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 (Dự Phòng 2)
 #https://tth.vn/thvl4-vieonpk
 https://linkxink.net/thvl4-thvli
