@@ -218,6 +218,9 @@ https://wintv.fun/360/148/index.m3u8
 https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
+#EXTINF:-1 tvg-id="Baclieuhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png", BẠC LIÊU HD
+https://linkxink.net/baclieu-btv
+
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vl1/index.m3u8
