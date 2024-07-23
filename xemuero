@@ -80,7 +80,7 @@ http://is.am/5xj8/mytv804
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@taohd1/playlist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH U19 ASIAN 1" tvg-logo="https://i.imgur.com/3HWeEV7.png", 23/07-19:30 | AFF U19 Youth Championship | Campuchia 🇰🇭 U19 vs Philipine U19 |KÊNH U19 ASIAN 1
+#EXTINF:-1 group-title="KÊNH U19 ASIAN 1" tvg-logo="https://i.imgur.com/3HWeEV7.png", 23/07-19:30 | AFF U19 Youth Championship | Campuchia 🇰🇭 U19 vs Philippines 🇵🇭 U19 |KÊNH U19 ASIAN 1
 #http://bentre5.hoangai.vn:8080/vebo/phatlai.php?id=bIN5W0x
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cayhd1/playlist.m3u8
 #https://live.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001721390964-0-0-99dc6754e4b806d3ef28e3cbee8002f6
@@ -102,7 +102,7 @@ https://live.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001721535123-0-0-
 #http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv2
 
 
-#EXTINF:-1 group-title="KÊNH U19 ASIAN 2" tvg-logo="https://i.imgur.com/3HWeEV7.png", 22/07-19:30 | AFF U19 Youth Championship | Singapore 🇸🇬 U19 vs Malaysia 🇲🇾 U19 |KÊNH U19 ASIAN 2
+#EXTINF:-1 group-title="KÊNH U19 ASIAN 2" tvg-logo="https://i.imgur.com/3HWeEV7.png", 23/07-19:30 | AFF U19 Youth Championship | Indonesia 🇮🇩 U19 vs 🇹🇱 U19 |KÊNH U19 ASIAN 2
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/IBlsxi07861T8gjeU8uWBA/Fv2lucGIbhPi2caWYvF5Lg/1721413706530/live/Z1FHD/playlist.m3u8
 #http://is.am/5xv8|Referer=https://sk.mediastation.live/index.m3u8
 #https://live.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001721535218-0-0-9799f656e907dae60c173eed72ef1eba
@@ -110,7 +110,8 @@ https://live.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001721535123-0-0-
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/6j2MpCECRcx9umqLNa6UuA/Fv2lucGIbhPi2caWYvF5Lg/1721239032066/live/may2FHD/playlist.m3u8
 #http://bentre5.hoangai.vn:8080/vebo/phatlai.php?id=35JjQbJ
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/6j2MpCECRcx9umqLNa6UuA/Fv2lucGIbhPi2caWYvF5Lg/1721239032066/live/may2FHD/playlist.m3u8
-http://is.am/5xv6|Referer=https://sk.mediastation.live/index.m3u8
+https://live.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001721729755-0-0-788590047da9a8f87e1175f397c9fa25
+#http://is.am/5xv6|Referer=https://sk.mediastation.live/index.m3u8
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/vGRO9U0tmBzdsa-qcmFwAw/Fv2lucGIbhPi2caWYvF5Lg/1721226136253/live/caFHD/chunklist.m3u8
 #https://api.wintv.me/vtv3/index.m3u8
 #https://wintv.fun/360/4/index.m3u8
