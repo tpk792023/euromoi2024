@@ -429,7 +429,7 @@ https://api.wintv.me/vtc6/index.m3u8
 #https://obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/1719763031681/live/cuonFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/171976303168
 
-EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllh2epqvy9/image",🔴 25.07 - 19:15 | VĐQG Malaysia | Sabah vs Negeri Sembilan
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllh2epqvy9/image",🔴 25.07 - 19:15 | VĐQG Malaysia | Sabah vs Negeri Sembilan
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fsabah-vs-negeri-sembilan-luc-1915-ngay-25-07-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/gpxwrxlhgpryk0j/image",🔴 25.07 - 19:00 | Giao Hữu CLB | Hertha Berlin vs Huddersfield
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fhertha-berlin-vs-huddersfield-town-luc-2000-ngay-25-07-2024%2F
@@ -469,6 +469,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fdepo
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fkups-vs-tromso-il-luc-2200-ngay-25-07-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/28y39mp1hzmojxg/image",25.07 - 22:00 | Women Olympic Football | Nữ Tây Ban Nha vs Nữ Nhật Bản
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fnu-tay-ban-nha-vs-nu-nhat-ban-luc-2200-ngay-25-07-2024%2F
+
+
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd8baf3ab5d39bcdab1d636a69e0e8086.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F679fae18b360a039da7e94c401471191.png",🔴25/07-18:00 | Hạng nhất Kazakhstan | Ekibastuzets vs Khan Tengri FC
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=n6q8320y61
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F622951cb622289cb656f2a1a05edcb13.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F89cdadf6cf1eb6f8d2507de1e01f806c.png",🔴25/07-18:00 | Giao Hữu Câu Lạc Bộ | Fortuna Sittard vs Borussia Monchengladbach | BLV: Giàng A Lôi
