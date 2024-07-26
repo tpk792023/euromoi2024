@@ -99,9 +99,9 @@ http://is.am/5xj8/mytv804
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@taohd1/playlist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH U19 ASIAN 1" tvg-logo="https://i.imgur.com/3HWeEV7.png", 26/07-15:00 | AFF U19 Youth Championship | Úc 🇦🇺 U19 vs Thái Lan 🇹🇭 U19 |KÊNH U19 ASIAN 1
+#EXTINF:-1 group-title="KÊNH U19 ASIAN 1" tvg-logo="https://i.imgur.com/3HWeEV7.png", 27/07-15:00 | AFF U19 Youth Championship | Úc 🇦🇺 U19 vs Thái Lan 🇹🇭 U19 |KÊNH U19 ASIAN 1
 #http://bentre5.hoangai.vn:8080/vebo/phatlai.php?id=bIN5W0x
-https://179939170.cdnfree.pro/live/thoxayhd2/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+https://179939170.cdnfree.pro/live/heohd2/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
 #http://is.am/5xv9/sctvindonesia
 #https://linkxink.net/blvalex
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
@@ -125,7 +125,8 @@ https://179939170.cdnfree.pro/live/thoxayhd2/playlist.m3u8|Referer=https://watch
 
 
 #EXTINF:-1 group-title="KÊNH U19 ASIAN 2" tvg-logo="https://i.imgur.com/3HWeEV7.png", 26/07-19:30 | AFF U19 Youth Championship | Indonesia 🇮🇩 U19 vs Malaysia 🇲🇾 U19 |KÊNH U19 ASIAN 2
-https://linkxink.net/blvroy
+https://179939170.cdnfree.pro/live/heohd2/playlist.m3u8|Referer=https://watch.rkplayer.xyz/
+#https://linkxink.net/blvroy
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/IBlsxi07861T8gjeU8uWBA/Fv2lucGIbhPi2caWYvF5Lg/1721413706530/live/Z1FHD/playlist.m3u8
 #http://is.am/5xv8|Referer=https://sk.mediastation.live/index.m3u8
 #https://live.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001721535218-0-0-9799f656e907dae60c173eed72ef1eba
