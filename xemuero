@@ -41,6 +41,9 @@ https://linkxink.net/youtubelive
 https://linkxink.net/phimledoitinhnhue
 #http://is.am/5xj9
 
+#EXTINF:-1 group-title="🔴|HOẠT HÌNH" tvg-logo="http://img.youtube.com/vi/VdOJ8GxmVNY/default.jpg",🔴|Nhạc Không Lời
+http://is.am/5xkz
+
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
