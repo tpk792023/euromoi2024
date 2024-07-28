@@ -500,8 +500,6 @@ http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=wnsnb3zzyf
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fssl.gstatic.com%2Fonebox%2Fmedia%2Fsports%2Fheadshots%2F31WQTaEBjkOB_kb2_108x108.jpg&m2=https%3A%2F%2Fssl.gstatic.com%2Fonebox%2Fmedia%2Fsports%2Fheadshots%2F31WQTaEBjkOB_kb2_108x108.jpg",28/07-17:00 | Olympic Paris 2024 | Trịnh Thu Vinh vs Chung Kết - 10m Súng Ngắn Hơi Nữ | BLV: Giàng A Sún
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=sfy6sddo8p
 
-#EXTINF:-1 tvg-logo="https://image.azencode.com/upload/Tournament/Friendly-International.png" group-title="⚽ GGSport Live" ,5 - PRT - Sport  TV 1_Vip | 29/07-00:30 | Friendly International | FC Porto - Al Nassr
-http://bentre5.hoangai.vn:8082/website/ggsport/ch.php?id=https%3A%2F%2Frtmplive.yarncdn.live%2Flive%2Fsporttv1%2Fplaylist.m3u8
 
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png", 🔴 28/07-08:38 | Angels vs Athletics
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=retT61q
@@ -519,8 +517,7 @@ http://bentre5.hoangai.vn:8080/thapcam/play.php?id=lWNBBdd
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=o0zaAI4
 #EXTINF:-1 group-title="⚽ Thập Cẩm" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9c/Lpl_newlogo.png", 28/07-14:00 | Invictus Gaming vs Team WE
 http://bentre5.hoangai.vn:8080/thapcam/play.php?id=3xdK10h
-#EXTINF:-1 group-title="⚽ Vebo" tvg-logo="http://bentre5.hoangai.fun:8080/logo/logoweb.png", Mẹo: Update để cập nhật trạng thái VeboTV
-https://hoangai.fun
+
 
 #EXTINF:-1 group-title="⚽ Vebo" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",🔴 45' Bù giờ | Labasa FC 0️⃣ vs 1️⃣ Nadi FC
 http://bentre5.hoangai.vn:8080/vebo/play.php?id=sJl3mjP
