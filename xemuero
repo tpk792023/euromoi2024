@@ -49,8 +49,9 @@ http://is.am/5xkz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 
-#EXTINF:-1 group-title="⚽ OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",25/07-22:00 | Women's Olympic Football Tournament | Canada (W) vs New Zealand (W) | BLV: Giàng A Cay
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",28/07-16:00 | Chung kết bắn súng: Trịnh Thu Vinh
+http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/DOc17h-mWTzAuSeoidwS3g/Fv2lucGIbhPi2caWYvF5Lg/1722180215970/live/Z3FHD/chunklist.m3u8
+#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
 #https://live.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001721824636-0-0-fcd973235223849de791d67bfd2c92a2
 #http://bentre5.hoangai.vn:8080/vebo/play.php?id=0JHwAOq
 #EXTINF:-1 group-title="⚽ OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",25/07-22:00 | Women's Olympic Football Tournament | Tây Ban Nha (w) vs Nhật Bản (W) | BLV: Giàng A Lử
