@@ -463,7 +463,7 @@ https://api.wintv.me/vtc6/index.m3u8
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/EKFE8JKwOf-xeMFXhKT3Lg/Fv2lucGIbhPi2caWYvF5Lg/171976303168
 
 
-EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/gpxwrxlhgpryk0j/image",🔴 02.08 - 18:00 | Giao Hữu CLB | Las Palmas vs Al-Shabab FC
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/gpxwrxlhgpryk0j/image",🔴 02.08 - 18:00 | Giao Hữu CLB | Las Palmas vs Al-Shabab FC
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Flas-palmas-vs-al-shabab-fc-luc-1800-ngay-02-08-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhj9pqvy9/image",🔴 02.08 - 18:00 | Australia Darwin Premier League | University Azzurri FC vs Port Darwin FC
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Funiversity-azzurri-fc-vs-port-darwin-fc-luc-1800-ngay-02-08-2024%2F
@@ -503,6 +503,8 @@ http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fwb-p
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Funiao-leiria-vs-cd-tondela-luc-1800-ngay-02-08-2024%2F
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/9k82rekh52repzj/image",02.08 - 18:35 | Ngoại Hạng Trung Quốc | Qingdao Island vs Cangzhou Mighty
 http://bentre5.hoangai.vn:8082/website/cakhia/pxoilac.php?id=%2Ftruc-tiep%2Fqingdao-island-vs-cangzhou-mighty-luc-1835-ngay-02-08-2024%2F
+
+
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5cf60860cd71f6ea6c1543fb49a0c1b8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fec7388715fccdb96c2b6f5d7170e6983.png",🔴02/08-16:30 | Ngoại hạng Calcutta. Indian | George Telegraph FC vs Tollygunje Agragami
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=gh8f499dee
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5061a74168d187da2c46a30bad100aad.png&m2=https%3A%2F%2Fsportcdns.live%2Fresized%2F224%2F224%2Fteam%2F80a70fe4bb1569706cc693cb084e83f0f12cf668b0875fcc6f9118eeaa0be68d.png",🔴02/08-16:30 | Ngoại hạng Calcutta. Indian | Calcutta Customs vs Calcutta Polica Club
@@ -561,8 +563,18 @@ http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=qmxq03tr1f
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=ohqbe0jp3o
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F77ca875a242e4b4b404106e58731f61d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F079bdbf302d4831bbbd8d623d25f27ff.png",02/08-22:00 | Ngoại hạng Armenia | BKMA vs Shirak | BLV: Giàng A Phủ
 http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=mc5tl4evdk
-#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FdnoZORwS-
-
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FdnoZORwS-rcthslVl.png&m2=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FfBWBjchl-dWxvhZJm.png",02/08-22:00 | Bóng Chuyền Nam Olympic | Pháp vs Slovenia | BLV: Giàng A Sún
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=zk6gtc1zfq
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F0437356503a22e50b9e8aa76145c7f71.png%21w100&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fe5858bd2ddb51631a85b1af22f5a1a6a.png%21w100",02/08-22:00 | Men's Olympic Football Tournament | Japan U23 vs Spain U23 | BLV: Giàng A Lử
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=1xdjn20oqh
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FfgZYtYil-tAqbo7Nj.png&m2=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fb5W8NzWg-Ykwr8Dur.png",02/08-22:15 | Bóng Rổ Nam Olympic | Canada vs Tây Ban Nha | BLV: Giàng A Mèo
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=wf03mlv8iu
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2825c00e7e9426930781af489d28e8d0.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F2080ede2c5d09638a7188913c81075ef.png",02/08-22:30 | Hạng Nhất Séc | Slovan Liberec vs Slavia Praha | BLV: Giàng A Lú
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=iqd5d665rl
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa96afd68bb256de910e7bb97921437f9.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7ddeb762b81e7575623341d01c90d478.png",02/08-22:30 | VĐQG Lithuanian | Banga Gargzdai vs Suduva | BLV: Giàng A Cỏ
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=nzbzy9d9nc
+#EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F8b355f026ef01a8bd444fc7148cce6ce.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb119ead83671cebc7f418a326b75b0c7.png",02/08-22:30 | Ngoại hạng Belarus | FK Vitebsk vs Shakhter Soligorsk | BLV: Giàng A Heo
+http://bentre5.hoangai.vn:8082/website/cakhia/play.php?id=998ao8mm8w
 
 
 #EXTINF:-1 group-title="⚽ Cà khịa" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/1f8d87e1161af68b81bace188a1ec624.png!w100&m2=https://img.thesports.com/football/team/fb9d433088a21464e7d634c4e190b31a.png!w100",02/07-23:00 | UEFA Euro | ROMANI vs HÀ LAN
