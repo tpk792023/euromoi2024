@@ -266,7 +266,8 @@ https://vod-ali1.tv360.vn/video1/2024/07/15/04/ac618a1c/ac618a1c-8d9a-4f3b-9f68-
 #http://is.am/5xvf
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
-https://wintv.fun/360/1/index.m3u8
+https://api.wintv.me/360/1/index.m3u8
+#https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 3
@@ -274,19 +275,21 @@ https://wintv.fun/360/1/index.m3u8
 #http://is.am/5xvg
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
-https://wintv.fun/360/148/index.m3u8
+https://api.wintv.me/360/148/index.m3u8
+#https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
 #https://live-evg4.tv360.vn/V28Z9zpjwED2E06sGSJ5xw/1720959078/manifest/Su_Kien_4/playlist_1080p.m3u8
 #http://is.am/5xvh
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
-https://wintv.fun/360/2458/index.m3u8
+https://api.wintv.me/360/2458/index.m3u8
+#https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
 
 #EXTINF:-1 tvg-id="Baclieuhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FoAzh3R.png", BẠC LIÊU HD
-http://wintv.fun/360/38/index.m3u8
-#https://api.wintv.me/360/38/index.m3u8
+#http://wintv.fun/360/38/index.m3u8
+https://api.wintv.me/360/38/index.m3u8
 #http://homelab.nguyenvinh.id.vn:4022/udp/225.1.1.61:30120
 #https://linkxink.net/baclieu-btv
 
@@ -309,25 +312,25 @@ https://api.wintv.me/vl2/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="THVL" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 (Dự Phòng 2)
 #https://tth.vn/thvl1-vieon
 #https://linkxink.net/thvl1-thvli
-http://wintv.fun/360/25/index.m3u8
-#https://api.wintv.me/360/25/index.m3u8
+#http://wintv.fun/360/25/index.m3u8
+https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="THVL" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 (Dự Phòng 2)
 #https://tth.vn/thvl2-vieon
 #https://linkxink.net/thvl2-thvli
-http://wintv.fun/360/26/index.m3u8
-#https://api.wintv.me/360/26/index.m3u8
+#http://wintv.fun/360/26/index.m3u8
+https://api.wintv.me/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="THVL" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 (Dự Phòng 2)
 #http://xkiwi.gotdns.ch:1024/rtp/232.84.3.164:10888
 #http://is.am/5xep
 #https://hqth.me/thvl3-thvli
 #https://tth.vn/ypuP
 #https://tth.vn/thvl3-vieonpk
-http://wintv.fun/360/219/index.m3u8
-#https://api.wintv.me/360/219/index.m3u8
+#http://wintv.fun/360/219/index.m3u8
+https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 (Dự Phòng 2)
 #https://tth.vn/thvl4-vieonpk
-https://linkxink.net/thvl4-thvli
-#https://api.wintv.me/360/220/index.m3u8
+#https://linkxink.net/thvl4-thvli
+https://api.wintv.me/360/220/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://api.wintv.me/vtv1/index.m3u8
