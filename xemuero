@@ -98,7 +98,7 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8
 
 #EXTINF:-1 group-title="GIAO HỮU" tvg-logo="https://img.vavel.com/lives-clubes-plantilla-ing-1722361894665.jpg", Thái Lan vs Đài Loan
 #EXTVLCOPT:http-referer=https://sk.mediastation.live/
-https://713291609.cloud.anycastapnic.com/pepmc/x14y2/playlist.m3u8
+https://713291609.cloud.anycastapnic.com/pepmc/x14y2/playlist.m3u8|referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x7y2/playlist.m3u8
 #https://vnlive.khanggtivi.xyz/live/MUTV/index.m3u8
 #https://2576277975.global.cdnfastest.com/live/THANHDO/index.m3u8
