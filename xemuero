@@ -240,8 +240,8 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
 #https://tth.vn/onsportplus
 #https://tth.vn/onsport-vieon
-http://m3u.at/Onsport-plus
-#https://linkxink.net/onsportplus
+#http://m3u.at/Onsport-plus
+https://linkxink.net/onsportplus
 #http://api.wintv.me/Vieon.php?id=vtvcab6
 #https://api.wintv.me/vtvcab6/index.m3u8
 
@@ -271,8 +271,8 @@ https://linkxink.net/onfootball1
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
 #https://tth.vn/onsportnews
 #https://tth.vn/onsport-news-vieon
-http://m3u.at/ONSPORT-NEWS
-#https://linkxink.net/onsportnews
+#http://m3u.at/ONSPORT-NEWS
+https://linkxink.net/onsportnews
 #https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
