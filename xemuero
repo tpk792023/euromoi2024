@@ -335,7 +335,8 @@ http://113.160.152.31:5050/rtp/232.84.2.196:10960
 #https://vod-ali1.tv360.vn/video1/2024/07/15/04/ac618a1c/ac618a1c-8d9a-4f3b-9f68-3898fefcaaa5_6.m3u8?timestamp=1721303580&token=cd33339c19f1201207a74f1ac28d3c19&uid=16448863
 #http://is.am/5xve
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/55.m3u8
-https://wintv.fun/360/2554/index.m3u8
+http://thvip.site/360/2554/index.m3u8
+#https://wintv.fun/360/2554/index.m3u8
 #https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 2
@@ -344,7 +345,8 @@ https://wintv.fun/360/2554/index.m3u8
 #http://is.am/5xvf
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
-https://api.wintv.me/360/1/index.m3u8
+http://thvip.site/360/1/index.m3u8
+#https://api.wintv.me/360/1/index.m3u8
 #https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
@@ -353,7 +355,8 @@ https://api.wintv.me/360/1/index.m3u8
 #http://is.am/5xvg
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
-https://api.wintv.me/360/148/index.m3u8
+http://thvip.site/360/148/index.m3u8
+#https://api.wintv.me/360/148/index.m3u8
 #https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 4
@@ -430,25 +433,26 @@ http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv2
 #https://api.wintv.me/360/3/index.m3u8
 #https://live.pipitv.top/stream/channelid/605615234?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/3Iv51YK.png", VTV3
-#http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv3
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv3
 #https://api.wintv.me/vtv3/index.m3u8
 #https://cdn1.tvmienphi.live:8444/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/index.m3u8
-https://api.wintv.me/360/4/index.m3u8
+#https://api.wintv.me/360/4/index.m3u8
 #https://live.pipitv.top/stream/channelid/681017258?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/pcRDicy.png", VTV5
-#http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv5
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv5
 #https://api.wintv.me/vtv5/index.m3u8
-https://api.wintv.me/360/110/index.m3u8
+#https://api.wintv.me/360/110/index.m3u8
 #https://live.pipitv.top/stream/channelid/809837702?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/RbYt1so.png", VTV Cần Thơ
-#http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv6
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv6
 #https://api.wintv.me/vtv6/index.m3u8
-https://api.wintv.me/360/98/index.m3u8
+#https://api.wintv.me/360/98/index.m3u8
 #https://live.pipitv.top/stream/channelid/989913226?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/bI1T1Vt.png", HTV7
 #http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=htv7
 #https://api.wintv.me/htv7/index.m3u8
-https://api.wintv.me/360/193/index.m3u8
+http://thvip.site/360/193/index.m3u8
+#https://api.wintv.me/360/193/index.m3u8
 #https://live.pipitv.top/stream/channelid/60159943?profile=pass
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://i.imgur.com/UttGGUW.png", HTV THỂ THAO
 http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=htvthethao
@@ -467,7 +471,8 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC1
-https://api.wintv.me/vtc1/index.m3u8
+http://thvip.site/vtc1/index.m3u8
+#https://api.wintv.me/vtc1/index.m3u8
 #https://cdn2.tvmienphi.xyz:8444/vtcnow.php?id=vtc1
 #https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #https://tth.vn/vtc1-vtcnow
@@ -475,14 +480,16 @@ https://api.wintv.me/vtc1/index.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="🇻🇳| NEXT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",NEXT SPORT
 #https://hqth.me/Youtube-live
 #https://tth.vn/theo-yêu-cầu
-https://api.wintv.me/vtc2/index.m3u8
+http://thvip.site/vtc2/index.m3u8
+#https://api.wintv.me/vtc2/index.m3u8
 #https://tth.vn/VTC2
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",VTC3
 #https://tth.vn/K-cliptv
 #https://cdn2.tvmienphi.xyz:8444/vtcnow.php?id=vtc3
 #https://vtc301220.cdn.vnns.io/VTC1HD.stream/chunks.m3u8
-https://api.wintv.me/vtc3/index.m3u8
+http://thvip.site/vtc3/index.m3u8
+#https://api.wintv.me/vtc3/index.m3u8
 #https://tth.vn/vtc3-vtcnow
 
 #EXTINF:-1 group-title="Trực tiếp Copa America 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/2024_Copa_Am%C3%A9rica_logo.svg/1200px-2024_Copa_Am%C3%A9rica_logo.svg.png",Phát khi có trận
@@ -519,14 +526,17 @@ https://api.wintv.me/vtc3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://api.wintv.me/vtc4/index.m3u8
+http://thvip.site/vtc4/index.m3u8
+#https://api.wintv.me/vtc4/index.m3u8
 #https://api.wintv.me/vtc4/index.m3u8
 #https://tth.vn/VTC4
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-https://api.wintv.me/vtc5/index.m3u8
+http://thvip.site/vtc5/index.m3u8
+#https://api.wintv.me/vtc5/index.m3u8
 #https://tth.vn/VTC5
 #EXTINF:-1 tvg-id="vtc6hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-https://api.wintv.me/vtc6/index.m3u8
+http://thvip.site/vtc6/index.m3u8
+#https://api.wintv.me/vtc6/index.m3u8
 #https://tth.vn/VTC6HD
 
 
