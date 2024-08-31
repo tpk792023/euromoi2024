@@ -276,7 +276,7 @@ https://linkxink.net/onsportplus
 #https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 group-title="#| VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-http://is.am/5pyj/xem
+http://is.am/5pym/xem
 #https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 #https://api.wintv.me/vtvcab16/index.m3u8
 
