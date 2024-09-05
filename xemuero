@@ -430,12 +430,14 @@ http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vl2
 #https://tth.vn/ypuP
 #https://tth.vn/thvl3-vieonpk
 #http://wintv.fun/360/219/index.m3u8
-http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vl3
+http://thvip.site/360/219/index.m3u8
+#http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vl3
 #https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="THVL" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 (Dự Phòng 2)
 #https://tth.vn/thvl4-vieonpk
 #https://linkxink.net/thvl4-thvli
-http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vl4
+http://thvip.site/360/220/index.m3u8
+#http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vl4
 #https://api.wintv.me/360/220/index.m3u8
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
