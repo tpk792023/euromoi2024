@@ -112,8 +112,6 @@ https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=720p
 #http://is.am/5xpa
 #http://sv1.khanggtivi.xyz/tlive/live-eu-pzybaks9eeliv.thapcam.link/35081ac4406909f600cbce338e82952d/1723320781656/live/may61/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ SIÊU CÚP ANH" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F3d7cc3c41c8531284a6426c47ae66b91.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fc4a6528a2ee147b99c9885ef24385a4e.png",10/08-21:00 |SIÊU CÚP ANH | MC vs MU | FPTPLAY
-#https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 3
 EXTVLCOPT:http-Referer=https://sk.mediastation.live/
@@ -147,7 +145,7 @@ https://linkxink.net/onfootballvtell
 #https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@saoke1x8/playlist.m3u8|Referer=https://sk.mediastation.live/
 #http://is.am/5xv9/sctvindonesia
 
-#EXTINF:-1 group-title="BÓNG ĐÁ 2" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F14b75c2d38d88b747c19de8ea5509d16.png%21w100&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fca3445d71de0ef386033037868c58d92.png%21w100",05/09-20:00 | Giao Hữu Quốc Tế | Việt Nam vs Nga
+#EXTINF:-1 group-title="BÓNG ĐÁ 2" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 2
 https://linkxink.net/phat-khi-co-tran
 #https://linkxink.net/blv-xuan-ruou
 #http://is.am/5xs2
@@ -166,7 +164,7 @@ https://linkxink.net/phat-khi-co-tran
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@taohd1/playlist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="http://xemtruyenhinh.xyz/image/hbo.png",BÓNG ĐÁ 4
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",BÓNG ĐÁ 4
 #https://linkxink.net/xoi-lac-2024
 
 #EXTINF:-1 group-title="⚽ XEM BÓNG ĐÁ" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https://img.vbfast.xyz/football/team/kdj2ryoh868q1zp/image/small&m2=https://img.vbfast.xyz/football/team/gx7lm7phykvm2wd/image/small",06/09-07:00 | Vòng Loại FIFA World Cup  | Aghentina vs Chile 
