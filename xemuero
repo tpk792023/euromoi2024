@@ -210,10 +210,10 @@ https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-
 #https://live3.procdnlive.com/livecdn/channel38.m3u8?auth_key=3000001726550045-0-0-a4cbe59fcd4912a7e3b84146e6bd2f16
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/l5ergphn3j2r8k0/image/small",17.09 - 19:00 | UEFA Youth League | Juventus  U19 vs PSV Eindhoven U19
 #https://live3.procdnlive.com/livecdn/channel60.m3u8?auth_key=3000001726546019-0-0-2e3e75f83d30c3856046e17b025d4493
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/3glrw7hwjvyqdyj/image/small",17.09 - 19:00 | AFC Champions League | Buriram United vs Vissel Kobe
-#https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001726545412-0-0-322605dcd667e1959b0f66b0aac198dd
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/z8yomo4hjjnq0j6/image/small",17.09 - 19:00 | AFC Champions League | Shanghai Shenhua vs Pohang Steelers
-#https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001726546683-0-0-0c18fba1d54f63d32646170896f74a26
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/9vjxm8ghd6wr6od/image",18.09 - 10:00 | VĐQG Mexico | Queretaro FC vs Tigres UANL
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001726545412-0-0-322605dcd667e1959b0f66b0aac198dd
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/e4wyrn4hjknq86p/image",18.09 - 10:00 | VĐQG Mexico | Pumas U.N.A.M. vs Puebla
+https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001726546683-0-0-0c18fba1d54f63d32646170896f74a26
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/318q66hox34qo9j/image/small",17.09 - 19:30 | UEFA Youth League | AC Milan U19 vs Liverpool U19
 #https://live3.procdnlive.com/livecdn/channel61.m3u8?auth_key=3000001726546841-0-0-b93c34ae05cc10da63097a87809faea3
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/y39mp1h3j9gmojx/image",18.09 - 07:00 | Concacaf caribbean cup | Cavalier FC vs Real Hope FA
@@ -267,6 +267,11 @@ https://live3.procdnlive.com/livecdn/channel33.m3u8?auth_key=3000001726610450-0-
 https://live3.procdnlive.com/livecdn/channel29.m3u8?auth_key=3000001726611082-0-0-4f3b84a102f3540253fb00cfa30aadb2
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/jednm9wh3lkryox/image",18/09-07:30 | Cúp c1 Nam Mỹ  |  Colo Colo vs River Plate
 http://bentre5.hoangai.vn:1236/live.vbfast.xyz/1755558546c9b4a5028c5c5009fc391a/1726654850143/9l7x9pa/index.m3u8
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/23xmvkh3p1jqg8n/image",18/09-09:00 | VĐQG Costarica  |  Herediano vs Municipal Liberia
+https://live3.procdnlive.com/livecdn/channel74.m3u8?auth_key=3000001726614737-0-0-fbbe0bee8ccb0dc9a7136d324027521e
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/x7lm7phogkgm2wd/image",18/09-09:00 | MLS Next PL   |  Portland Timbers Res vs Ventura County FC
+https://live3.procdnlive.com/livecdn/channel73.m3u8?auth_key=3000001726614943-0-0-aab58443c49cc5f7a177b387058eae61
+
 
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 5" tvg-logo="http://xemtruyenhinh.xyz/image/hbo.png", KÊNH HBO
