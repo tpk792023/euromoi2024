@@ -248,12 +248,9 @@ https://live3.procdnlive.com/livecdn/channel25.m3u8?auth_key=3000001726589899-0-
 https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001726589992-0-0-0c1964b04ab096ab22bf37133869d7fb
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Preston North - Fulham
 https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001726590072-0-0-171e1acb9ff535d45efd74d715340f9f
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Preston North - Fulham
-
-
-
-
-
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Stoke City - Fleetwood Town
+https://live3.procdnlive.com/livecdn/channel20.m3u8?auth_key=3000001726590171-0-0-f77df52f5b3111c975487caec01676b8
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-02:00 | England - League Cup | Preston North - Fulham
 
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",17/09-02:00 | UEFA Champions League | AC Milan vs Liverpool
