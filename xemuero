@@ -271,7 +271,9 @@ https://live3.procdnlive.com/livecdn/channel70.m3u8?auth_key=3000001726548629-0-
 https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001726548881-0-0-e096ac4b414bfb96319f949d1c4b92ca
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:30 | UEFA Youth League  | Club Brugge U19 vs Dortmund U19
 https://live3.procdnlive.com/livecdn/channel25.m3u8?auth_key=3000001726589899-0-0-ac5e0a3907f9c252669a4ea48beb2d2c
-
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-21:00 | UEFA Youth League  | Manchester City U19 vs Inter Milan U19
+https://live3.procdnlive.com/livecdn/channel24.m3u8?auth_key=3000001726657800-0-0-3f669090cc7eb474dced60493243ba31
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-21:00 | AFC Champions League Elite | ATK Mohun Bagan vs Tampines Rovers FC
 
 
 
