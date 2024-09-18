@@ -241,8 +241,8 @@ https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001726576559-0-
 #https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | QPR - Crystal
 #https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001726589744-0-0-ecc5c687200ea20c8a12350e220999cb
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Everton - Southampton
-#https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726589812-0-0-49eea1b8638d74757fa8a455ec449b08
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/8yomo4h741nq0j6/image",18/09-15:30 | VĐQG Indonesia | Persik Kediri - Persita
+https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726589812-0-0-49eea1b8638d74757fa8a455ec449b08
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8gh41xkr6od/image",18/09-05:00 | Braxin - hạng 2 | Gremio Novorizontino - Brusque FC
 #https://live3.procdnlive.com/livecdn/channel25.m3u8?auth_key=3000001726589899-0-0-ac5e0a3907f9c252669a4ea48beb2d2c
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Brentford - Leyton Orient
@@ -271,6 +271,15 @@ http://bentre5.hoangai.vn:1236/live.vbfast.xyz/1755558546c9b4a5028c5c5009fc391a/
 https://live3.procdnlive.com/livecdn/channel74.m3u8?auth_key=3000001726614737-0-0-fbbe0bee8ccb0dc9a7136d324027521e
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/x7lm7phogkgm2wd/image",18/09-09:00 | MLS Next PL   |  Portland Timbers Res vs Ventura County FC
 https://live3.procdnlive.com/livecdn/channel73.m3u8?auth_key=3000001726614943-0-0-aab58443c49cc5f7a177b387058eae61
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/zp5rzghjk4yq82w/image",18/09-15:00 | Giao Hữu Quốc Tế U16 | Thỗ Nhĩ Kỳ U16  vs Bồ Đào Nha U16
+https://live3.procdnlive.com/livecdn/channel82.m3u8?auth_key=3000001726625165-0-0-c35e5f67e92e18f4f2abadd0d1661ba8
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/pxwrxlhgpxdryk0/image",18/09-15:30 | Giao Hữu Quốc Tế U16 | Ryutsu Keizai Uni  vs Nhật U20
+https://live3.procdnlive.com/livecdn/channel84.m3u8?auth_key=3000001726625375-0-0-c97ec8a33d772e7651ab22f002e28cb9
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/2y8m4zhjzloql07/image",18/09-15:30 | VĐQG Indonesia | Semen Padang  vs Barito Putera
+https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001726625570-0-0-707eca6fedd9fc62f9e0524237e89b4c
+
+
+
 
 
 
