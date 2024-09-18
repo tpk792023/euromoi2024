@@ -257,11 +257,11 @@ https://linkxink.net/xoi-lac-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",17/09-02:00 | UEFA Champions League | AC Milan vs Liverpool
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Shanghai Port vs Johor Darul Takzim
-https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001726588959-0-0-612397d9d5e37e7ebdbe2f1c747eef57
+#https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001726588959-0-0-612397d9d5e37e7ebdbe2f1c747eef57
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Lee Man vs Nam Dinh FC
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
+#https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Bangkok United vs Tampines Rovers FC
-https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
+#https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/k82rekh931jrepz/image/small",18/09-19:00 | VĐQG Indonesia | Persebaya vs Persis Solo FC
 https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-0-a3e6ae2112774ca94fa87bc3eb921fba
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:00 | UEFA Youth League  | PSG U19 vs Girona U19
@@ -286,6 +286,10 @@ https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001726589744-0-
 https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001726588959-0-0-612397d9d5e37e7ebdbe2f1c747eef57
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",18.09 - 23:45 | UEFA Champions League  | Bologna vs Shakhtar Donetsk
 https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/d23xmvkhz9nqg8n/image/small",19.09 -00:00 | LALIGA  | Real Betis vs Getafe
+https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
+
+
 
 
 
@@ -313,6 +317,9 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0
 #https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001726545412-0-0-322605dcd667e1959b0f66b0aac198dd
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/y39mp1hyz5lmojx/image",18/09-17:00 | UEFA Youth league |  Bologna U19 vs Shakhtar Donetsk U19
 #https://live3.procdnlive.com/livecdn/channel90.m3u8?auth_key=3000001726631130-0-0-4d0a74cb7a8ae3e4f8f79ff839e8b794
+
+
+
 
 
 
