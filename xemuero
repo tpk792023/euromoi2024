@@ -197,7 +197,7 @@ https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001726549457-0-0
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",17.09 - 17:00 | AFC Champions League Elite | Gwangju FC vs Yokohama Marinos
 #https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001726549566-0-0-4dbfc9eb42e0e6e511a02134f14c85fd
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhdekqvy9/image/small",17.09 - 18:30 | Trung Quốc U-21 League | Henan FC U21 vs Beijing Guoan U21
-#https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001726549647-0-0-4dc818f39d254f0a99d87cd6844893f6
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/z8yomo4hpy5q0j6/image",18.09 - 08:00 | VĐQG Mexico | Pachuca vs Toluca
 #https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726549744-0-0-9feff889cdd723277ceb264f41c0945d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/v2y8m4zhy70ql07/image",18.09 - 07:30 | Siêu Cúp Nam Mỹ | Fortaleza vs Corinthians (SP)
@@ -263,8 +263,8 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0
 https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/k82rekh931jrepz/image/small",18/09-19:00 | VĐQG Indonesia | Persebaya vs Persis Solo FC
 https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-0-a3e6ae2112774ca94fa87bc3eb921fba
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-20:00 | UEFA Youth League  | Bangkok United vs Tampines Rovers FC
-
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-20:00 | UEFA Youth League  | PSG U19 vs Girona U19
+https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001726549647-0-0-4dc818f39d254f0a99d87cd6844893f6
 
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8ghpjoyr6od/image",18/09-14:00 | Trung Quốc U21 League | Chengdu Rongcheng U21 vs Meizhou Hakka U21
