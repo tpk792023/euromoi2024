@@ -230,7 +230,7 @@ https://linkxink.net/xoi-lac-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://xoilaczvb.tv/wp-content/themes/bongda/dist/images/company/23.png",17.09 - 21:30 | EST ngoại hạng | Trans Narva vs FC Flora Tallinn
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",17.09 - 23:00 | AFC Champions League Elite | Al Wehdat vs Sepahan
-#https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001726577128-0-0-155839d9eb50def7f206151683801435
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",17.09 - 23:00 | AFC Champions League Elite | FC Istiklol Dushanbe vs Al-Sharjah
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726577340-0-0-68feb459c8f130bbc66d7a77518720a1
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/4jwq2ghv853m0ve/image",18.09 - 05:00 | Concacaf caribbean cup | AC Port Of Spain vs Jennings Grenades
@@ -241,7 +241,7 @@ https://linkxink.net/xoi-lac-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F314ca8463a6fd047b11d474287b24c50.png",17/09-23:45 | UEFA Champions League | Juventus vs PSV Eindhoven
 #https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | QPR - Crystal
-#https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001726589744-0-0-ecc5c687200ea20c8a12350e220999cb
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/8yomo4h741nq0j6/image",18/09-15:30 | VĐQG Indonesia | Persik Kediri - Persita
 #https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726589812-0-0-49eea1b8638d74757fa8a455ec449b08
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8gh41xkr6od/image",18/09-05:00 | Braxin - hạng 2 | Gremio Novorizontino - Brusque FC
@@ -278,6 +278,12 @@ https://live3.procdnlive.com/livecdn/channel24.m3u8?auth_key=3000001726657800-0-
 https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001726576907-0-0-7355464399bc6b68039eb044fd7de9ea
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-22:00 | UEFA Youth League  | Dinamo Tbilisi U19 vs Buducnost U19
 https://live3.procdnlive.com/livecdn/channel92.m3u8?auth_key=3000001726666670-0-0-7d8c8f71a472fa42224493d7d9e32151
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-23:00 | AFC Champions League Elite | Al-Wakra vs Tractor S.C
+https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001726577128-0-0-155839d9eb50def7f206151683801435
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/e4wyrn4h1yxq86p/image/small",18/09-23:00 | Cúp Nga  | FK Rostov vs Gazovik Orenburg
+https://live3.procdnlive.com/livecdn/channel13.m3u8?auth_key=3000001726589744-0-0-ecc5c687200ea20c8a12350e220999cb
+
+
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8ghpjoyr6od/image",18/09-14:00 | Trung Quốc U21 League | Chengdu Rongcheng U21 vs Meizhou Hakka U21
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726589057-0-0-e125025ddc2fb2d2a23304f5c42609d5
