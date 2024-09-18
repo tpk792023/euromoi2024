@@ -199,9 +199,9 @@ https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001726549457-0-0
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhdekqvy9/image/small",17.09 - 18:30 | Trung Quốc U-21 League | Henan FC U21 vs Beijing Guoan U21
 #https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001726549647-0-0-4dc818f39d254f0a99d87cd6844893f6
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/z8yomo4hpy5q0j6/image",18.09 - 08:00 | VĐQG Mexico | Pachuca vs Toluca
-https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726549744-0-0-9feff889cdd723277ceb264f41c0945d
+#https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726549744-0-0-9feff889cdd723277ceb264f41c0945d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/v2y8m4zhy70ql07/image",18.09 - 07:30 | Siêu Cúp Nam Mỹ | Fortaleza vs Corinthians (SP)
-https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-0-a3e6ae2112774ca94fa87bc3eb921fba
+#https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-0-a3e6ae2112774ca94fa87bc3eb921fba
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/p3glrw7hywqdyjv/image/small",17.09 - 19:00 | ENG U21 League 2 | Birmingham U21 vs Millwall U21
 #https://live3.procdnlive.com/livecdn/channel36.m3u8?auth_key=3000001726549906-0-0-57862e940e29a6a9a94314778494fa9f
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kdj2ryohpeq1zpg/image/small",17.09 - 19:00 | Hạng Nhất Armenia | Bentonit Idzhevan vs Nikarm
@@ -224,7 +224,7 @@ https://live3.procdnlive.com/livecdn/channel61.m3u8?auth_key=3000001726546841-0-
 https://live3.procdnlive.com/livecdn/channel18.m3u8?auth_key=3000001726535901-0-0-80f1a529d64a3321165595ba098acadb
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/dj2ryohy4x8q1zp/image/small",17.09 - 21:00 | UEFA Youth League | Real Madrid U19 vs VfB Stuttgart U19
 #https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001726548442-0-0-cec96b30e78dae210c34fb683aaad0ab
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/kjw2r09hojvrz84/image",18.09 - 08:00 | VĐQG Mexico | Atl. San Luis vs Cruz Azul
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/kjw2r09hojvrz84/image",18.09 - 18:00 | UEFA Youth league | Sparta Praha U19 vs Red Bull Salzburg U19
 https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001726576559-0-0-10e25613b957eca38f9ebf7eb8125fc1
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://xoilaczvb.tv/wp-content/themes/bongda/dist/images/company/23.png",17.09 - 21:30 | EST ngoại hạng | Trans Narva vs FC Flora Tallinn
 #https://live3.procdnlive.com/livecdn/channel27.m3u8?auth_key=3000001726576907-0-0-7355464399bc6b68039eb044fd7de9ea
