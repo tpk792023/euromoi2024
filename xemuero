@@ -181,7 +181,7 @@ https://linkxink.net/xoi-lac-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhdekqvy9/image/small",17.09 - 14:00 | Trung Quốc U-21 League | Shanghai Shenhua U21 vs Changchun Yatai U21
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726548800-0-0-0b9f19d814d2c7f28a750df6406cf96b
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/kn54qllhdekqvy9/image/small",17.09 - 14:00 | Trung Quốc U-21 League | Zhejiang  FC U21 vs Shenzhen Peng U21
-#https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001726548881-0-0-e096ac4b414bfb96319f949d1c4b92ca
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/56ypq3nhz53md7o/image/small",17.09 - 15:30 | VĐQG Indonesia | PSBS Biak vs Madura United
 #https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726549113-0-0-433447bbca5f5b3663d9254b99a810d2
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4h2ykq0j6/image/small",17.09 - 16:00 | Indian Sikkim S-League | Howlers SC vs Sang Mustang FC
@@ -244,7 +244,7 @@ https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001726576559-0-
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/8yomo4h741nq0j6/image",18/09-15:30 | VĐQG Indonesia | Persik Kediri - Persita
 https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726589812-0-0-49eea1b8638d74757fa8a455ec449b08
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8gh41xkr6od/image",18/09-05:00 | Braxin - hạng 2 | Gremio Novorizontino - Brusque FC
-#https://live3.procdnlive.com/livecdn/channel25.m3u8?auth_key=3000001726589899-0-0-ac5e0a3907f9c252669a4ea48beb2d2c
+#
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Brentford - Leyton Orient
 #https://live3.procdnlive.com/livecdn/channel16.m3u8?auth_key=3000001726589992-0-0-0c1964b04ab096ab22bf37133869d7fb
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-01:45 | England - League Cup | Preston North - Fulham
@@ -267,9 +267,10 @@ https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-
 https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001726549647-0-0-4dc818f39d254f0a99d87cd6844893f6
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:00 | UEFA Youth League  | Celtic U19 vs Slovan Bratislava U19
 https://live3.procdnlive.com/livecdn/channel70.m3u8?auth_key=3000001726548629-0-0-6d91ebdf3c4395ae472556944680ea5a
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/965mkyh3x0er1ge/image/small",18/09-20:15 | Cúp Nga  | Celtic U19 vs Slovan Bratislava U19
-
-
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/965mkyh3x0er1ge/image/small",18/09-20:15 | Cúp Nga  | Akron Togliatti vs Fakel
+https://live3.procdnlive.com/livecdn/channel8.m3u8?auth_key=3000001726548881-0-0-e096ac4b414bfb96319f949d1c4b92ca
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:30 | UEFA Youth League  | Club Brugge U19 vs Dortmund U19
+https://live3.procdnlive.com/livecdn/channel25.m3u8?auth_key=3000001726589899-0-0-ac5e0a3907f9c252669a4ea48beb2d2c
 
 
 
