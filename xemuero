@@ -233,7 +233,7 @@ https://live3.procdnlive.com/livecdn/channel12.m3u8?auth_key=3000001726576559-0-
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",17.09 - 23:00 | AFC Champions League Elite | FC Istiklol Dushanbe vs Al-Sharjah
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726577340-0-0-68feb459c8f130bbc66d7a77518720a1
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/4jwq2ghv853m0ve/image",18.09 - 05:00 | Concacaf caribbean cup | AC Port Of Spain vs Jennings Grenades
-#https://live3.procdnlive.com/livecdn/channel70.m3u8?auth_key=3000001726548629-0-0-6d91ebdf3c4395ae472556944680ea5a
+#
 #https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001726577505-0-0-5557d963ca1782053e9b3b1561d3c53d
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F5ee7149b64dc654c7fa2e43c7a0cf12e.png",17/09-23:45 | UEFA Champions League | Young Boys vs Aston Villa
 #https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001726578072-0-0-36cbebb921afba78324a67e2e0ddb282
@@ -263,8 +263,12 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0
 https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/k82rekh931jrepz/image/small",18/09-19:00 | VĐQG Indonesia | Persebaya vs Persis Solo FC
 https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001726549834-0-0-a3e6ae2112774ca94fa87bc3eb921fba
-#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-20:00 | UEFA Youth League  | PSG U19 vs Girona U19
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:00 | UEFA Youth League  | PSG U19 vs Girona U19
 https://live3.procdnlive.com/livecdn/channel28.m3u8?auth_key=3000001726549647-0-0-4dc818f39d254f0a99d87cd6844893f6
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",18/09-20:00 | UEFA Youth League  | Celtic U19 vs Slovan Bratislava U19
+https://live3.procdnlive.com/livecdn/channel70.m3u8?auth_key=3000001726548629-0-0-6d91ebdf3c4395ae472556944680ea5a
+
+
 
 
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8ghpjoyr6od/image",18/09-14:00 | Trung Quốc U21 League | Chengdu Rongcheng U21 vs Meizhou Hakka U21
