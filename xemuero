@@ -254,9 +254,18 @@ https://live3.procdnlive.com/livecdn/channel19.m3u8?auth_key=3000001726589812-0-
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/tournaments/league-cup.png",18/09-02:00 | England - League Cup | Manchester United - Barnsley
 #http://bentre5.hoangai.vn:1236/live.vbfast.xyz/49f1e75e36e584d726deb10a0f62f62f/1726633574003/qtdmef4/index.m3u8
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",17/09-02:00 | UEFA Champions League | AC Milan vs Liverpool
-#https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Shanghai Port vs Johor Darul Takzim
 https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001726588959-0-0-612397d9d5e37e7ebdbe2f1c747eef57
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Lee Man vs Nam Dinh FC
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001726578376-0-0-c4367f025fecc4a2bbf1ed5386cb0d3d
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",18/09-19:00 | AFC Champions League Elite | Bangkok United vs Tampines Rovers FC
+https://live3.procdnlive.com/livecdn/channel15.m3u8?auth_key=3000001726588761-0-0-05c9e284ac6651247b30e9bacb6a6e46
+#EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/k82rekh931jrepz/image/small",18/09-19:00 | VĐQG Indonesia | Bangkok United vs Tampines Rovers FC
+
+
+
+
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8ghpjoyr6od/image",18/09-14:00 | Trung Quốc U21 League | Chengdu Rongcheng U21 vs Meizhou Hakka U21
 https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726589057-0-0-e125025ddc2fb2d2a23304f5c42609d5
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",17/09-02:00 | UEFA Champions League | Bayern Munich vs Dinamo Zagreb
