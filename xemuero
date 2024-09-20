@@ -193,7 +193,7 @@ https://linkxink.net/xoi-lac-2024
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hy1q0j6l/image/small",17.09 - 17:00 | Israel B League | Ironi Nesher vs Hapoel Bnei Zalfa
 #https://live3.procdnlive.com/livecdn/channel72.m3u8?auth_key=3000001726549374-0-0-afbd29b1f6483641bc95708021c10e61
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",19.09 - 19:00 | AFC Champions League Elite | Persib Bandung vs Port FC
-http://cdn.hoangai.vn:1234/live-eu-pzybaks9eeliv.thapcam.link/9904c72e070aa4128c319b4cdeec7e27/1726773833378/live/may111/playlist.m3u8
+#http://cdn.hoangai.vn:1234/live-eu-pzybaks9eeliv.thapcam.link/9904c72e070aa4128c319b4cdeec7e27/1726773833378/live/may111/playlist.m3u8
 #https://live3.procdnlive.com/livecdn/channel2.m3u8?auth_key=3000001726549457-0-0-b8176f3d397a65dfe4bfe732871ae934
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/competition/z8yomo4hg66q0j6/image/small",17.09 - 17:00 | AFC Champions League Elite | Gwangju FC vs Yokohama Marinos
 #https://live3.procdnlive.com/livecdn/channel10.m3u8?auth_key=3000001726549566-0-0-4dbfc9eb42e0e6e511a02134f14c85fd
@@ -449,13 +449,13 @@ http://cdn.hoangai.vn:1234/live-eu-pzybaks9eeliv.thapcam.link/9904c72e070aa4128c
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F44073f2d2c979a9388f98505ac3b754d.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fd3205f3ddca07dc01c822ea0de24a0e7.png", 19/09-23:45 | UEFA Champions League | Feyenoord vs Bayer Leverkusen | BLV A Lôi
 #http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F61a1f9406cde098a265280a3683da9b7.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F78360445c12fa3fdc8b489486fff4eb6.png", 19/09-23:45 | UEFA Champions League | Crvena Zvezda vs Benfica | BLV Giàng A Cay
-http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8
+#http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F983e56ee1d89379148cbb1d28384b6af.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fbf86b68b6c392717d62eaff46e500d2d.png", 20/09-00:00 | Giải Cỏ: VĐQG Thụy Điển | Elfsborg vs IFK Norrkoping FK | BLV 
 
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb455fced1f99bb2ef00b03c3e693cb8c.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F299d67bea31d92001a2e4558aaf9ad5e.png", 20/09-00:00 | Giải Cỏ: UEFA Women's Champions League | St. Polten (w) vs ZNK Pomurje (w) | BLV 
 
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb6728832f1504989e57f8a43479429ec.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb2a647479bd175eb2e61d89f2317e7de.png", 20/09-00:00 | La Liga | Leganes vs Athletic Bilbao | BLV Giàng A Sún
-http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunhd1/playlist.m3u8
+#http://bentre5.hoangai.vn:1239/live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F1c885affe7dafb06cf990a3bca3121f8.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F149eea75b2796dd6113adc145635fea3.png", 20/09-00:00 | Giải Cỏ: UEFA Women's Champions League | Galatasaray SK (w) vs Slavia Praha (w) | BLV 
 
 #EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F93920efdf720a6e94d3ab5e43ae3b504.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fb8c1647b4f0dd610d8432389f015e4ab.png", 20/09-00:00 | Giải Cỏ: VĐQG Thụy Điển | Hacken vs Djurgardens | BLV 
