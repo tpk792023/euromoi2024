@@ -741,32 +741,35 @@ http://antm.dynu.net:14285/rtp/232.84.2.196:10960
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
+http://171.226.225.198:8889/rtp/239.12.251.72:5000
 #http://bentre5.hoangai.vn:8082/youtube/play.php?id=9FhSKjXmUM0
 #https://live-bd2.tv360.vn/hQE0vD4yL9OH56DtZcCPbA/1720958691/manifest/sukien/playlist_sukien-1080p-35M.m3u8?manifestfilter=video_bitrate:1-4400000&uid=19680
 #https://vod-ali1.tv360.vn/video1/2024/07/15/04/ac618a1c/ac618a1c-8d9a-4f3b-9f68-3898fefcaaa5_6.m3u8?timestamp=1721303580&token=cd33339c19f1201207a74f1ac28d3c19&uid=16448863
 #http://is.am/5xve
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/55.m3u8
-http://thvip.site/360/2554/index.m3u8
+#http://thvip.site/360/2554/index.m3u8
 #https://wintv.fun/360/2554/index.m3u8
 #https://tth.vn/tv360plus1
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
+http://171.226.225.198:8889/rtp/239.12.252.59:5000
 #https://linkxink.net/3602
 #http://is.am/5xvf
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/56.m3u8
-http://thvip.site/360/1/index.m3u8
+#http://thvip.site/360/1/index.m3u8
 #https://api.wintv.me/360/1/index.m3u8
 #https://wintv.fun/360/1/index.m3u8
 #https://tth.vn/tv360plus2
 
 #EXTINF:-1 group-title="Trực tiếp Euro 2024" tvg-logo="https://img.upanh.tv/2024/07/09/1000007671.png", UEFA Euro 2024 | TV360 Link 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
+http://171.226.225.198:8889/rtp/239.12.251.253:5000
 #http://is.am/5xvg
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/57.m3u8
-http://thvip.site/360/148/index.m3u8
+#http://thvip.site/360/148/index.m3u8
 #https://api.wintv.me/360/148/index.m3u8
 #https://wintv.fun/360/148/index.m3u8
 #https://tth.vn/tv360plus3
@@ -775,7 +778,8 @@ http://thvip.site/360/148/index.m3u8
 #https://live-evg4.tv360.vn/V28Z9zpjwED2E06sGSJ5xw/1720959078/manifest/Su_Kien_4/playlist_1080p.m3u8
 #http://is.am/5xvh
 #http://103.171.91.5:80/live/9xJVD4KDwN/jM7uHweaAv/58.m3u8
-http://thvip.site/360/2458/index.m3u8
+http://171.226.225.198:8889/rtp/239.12.251.3:5000
+#http://thvip.site/360/2458/index.m3u8
 #https://api.wintv.me/360/2458/index.m3u8
 #https://wintv.fun/360/2458/index.m3u8
 #https://tth.vn/tv360plus4
