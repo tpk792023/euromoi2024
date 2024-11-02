@@ -749,7 +749,8 @@ https://linkxink.net/onsportnews
 #https://api.wintv.me/vtvcab18/index.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/BTV5_ON_Sports_Action_logo_2023.png/revision/latest?cb=20230322105340&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",BTV5 HD - ON Sports Action
-http://azurex88.ddns.net/premium/bpk-tv/vcab/btv5/index.m3u8
+https://linkxink.net/btv5-online
+#http://azurex88.ddns.net/premium/bpk-tv/vcab/btv5/index.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8?h=1080
 #https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 #https://tth.vn/btv5-vtvcabon
