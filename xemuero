@@ -697,9 +697,9 @@ https://linkxink.net/blv-Than-Choi
 #https://live-eu-pzybaks9eeliv.thapcam.link/098e7c710a31c2cec3ed47e0accf4919/1720216339316/live/may71/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 #http://103.170.123.44/vtv3?token=live
 
-#EXTINF:-1 group-title="KÊNH BILIARDTV" tvg-logo="http://xemtruyenhinh.xyz/image/billiardtv.png",Billiardtv
+#EXTINF:-1 group-title="KÊNH BILIARDTV" tvg-logo="http://xemtruyenhinh.tv/image/billiardtv.png",Billiardtv
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2167&live=1&avod=1
-#EXTINF:-1 group-title="BEIN SPORTS XTRA" tvg-logo="http://xemtruyenhinh.xyz/image/beinxtra.png",Bein sports xtra
+#EXTINF:-1 group-title="BEIN SPORTS XTRA" tvg-logo="http://xemtruyenhinh.tv/image/beinxtra.png",Bein sports xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/ON_Sports%2B_logo_2023.png/revision/latest?cb=20240405103433&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports+ HD
