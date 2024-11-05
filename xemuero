@@ -98,10 +98,10 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8?h=1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8?h=1080p
 
-#EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.xyz/image/boxingtv.jpg",KÊNH BOXING'S TV 
+#EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
 https://linkxink.net/boxingtv
 
-#EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.xyz/image/fightbox.png",KÊNH FIGHBOX
+#EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
 https://stream01.vnet.am/Fightbox/mono.m3u8
 
 
