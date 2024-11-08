@@ -62,8 +62,12 @@ http://is.am/5xkz
 #EXTINF:-1 group-title="🔴|BÁO THANH NIÊN" tvg-logo="http://img.youtube.com/vi/b7ISCfJYCHM/default.jpg",🔴|BÁO THANH NIÊN ONLINE
 #https://linkxink.net/bao-thanh-nien
 
-#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 3
 https://global-media.sooplive.com/live/soopbilliards3/master.m3u8
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 5
+https://global-media.sooplive.com/live/soopbilliards5/master.m3u8
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 8
+https://global-media.sooplive.com/live/soopbilliards8/master.m3u8
 #http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbCuk27JN5gCJPh_wJzDjIKM/ts
 #https://linkxink.net/truc-tiep-u17VN
 #https://linkxink.net/phat-live-hang-ngay
