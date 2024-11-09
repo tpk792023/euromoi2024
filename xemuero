@@ -67,18 +67,18 @@ https://dl.dropboxusercontent.com/s/tczgd8i2zcv6erw/getlink/mytv/223/hd.m3u8?id=
 #https://global-media.sooplive.com/vod/56120/master.m3u8
 #https://global-media-cdn.sooplive.com/756aaf1f-f410-4d56-9a7c-40dc2a36ee27/soopbilliards1/-3QlWR4EdAJGge6mEU7fkwsgSGMAaCmH7GUBanP4yJXEaezjPjdoDcGLvoOCqKHmp5c6QGjWUPj7Tnq0Yy6h4w==/video/1920x1080/playlist_0_196941d.m3u8
 https://global-media.sooplive.com/live/soopbilliards1/master.m3u8
-#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 2
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 2
 #https://global-media.sooplive.com/vod/59546/master.m3u8
 https://global-media.sooplive.com/live/soopbilliards2/master.m3u8
 #EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|XEM LẠI BIDA Kênh 3
 #https://global-media.sooplive.com/vod/55812/master.m3u8
 #https://global-media.sooplive.com/live/soopbilliards3/master.m3u8
-#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 4
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 4
 #https://global-media.sooplive.com/vod/59547/master.m3u8
 https://global-media.sooplive.com/live/soopbilliards4/master.m3u8
 #EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 5
 #https://global-media.sooplive.com/live/soopbilliards5/master.m3u8
-#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 6
+#EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 6
 https://global-media.sooplive.com/live/soopbilliards6/master.m3u8
 #EXTINF:-1 group-title="🔴|TRỰC TIẾP BIDA" tvg-logo="https://static.sooplive.com/image/banner/0c4414e129.png",🔴|TRỰC TIẾP BIDA Kênh 7
 #https://global-media.sooplive.com/live/soopbilliards7/master.m3u8
@@ -175,7 +175,7 @@ https://stream01.vnet.am/Fightbox/mono.m3u8
 #http://sv1.khanggtivi.xyz/tlive/live-eu-pzybaks9eeliv.thapcam.link/35081ac4406909f600cbce338e82952d/1723320781656/live/may61/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 3
+#EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",KÊNH BÓNG ĐÁ 3
 EXTVLCOPT:http-Referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x14y2/playlist.m3u8|Referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x7y2/playlist.m3u8
@@ -187,7 +187,7 @@ EXTVLCOPT:http-Referer=https://sk.mediastation.live/
 #https://linkxink.net/blv-Than-Choi
 https://linkxink.net/bongda3
 
-#EXTINF:-1 group-title="BÓNG ĐÁ 1" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 1
+#EXTINF:-1 group-title="BÓNG ĐÁ 1" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",KÊNH BÓNG ĐÁ 1
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/YtV3M0FY2DBrgP0C7HQMlQ/Fv2lucGIbhPi2caWYvF5Lg/1721020344085/live/cunFHD/chunklist.m3u8
 https://linkxink.net/onfootballvtell
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/c9V2W1fysATIRYXipTWSSg/Fv2lucGIbhPi2caWYvF5Lg/1721550876490/live/trauFHD/playlist.m3u8
@@ -226,7 +226,7 @@ https://linkxink.net/phat-khi-co-tran
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@taohd1/playlist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",BÓNG ĐÁ 4
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",BÓNG ĐÁ 4
 https://linkxink.net/xoi-lac-2024
 
 #EXTINF:-1 group-title="⚽ XEM BÓNG ĐÁ" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https://img.vbfast.xyz/football/team/kdj2ryoh868q1zp/image/small&m2=https://img.vbfast.xyz/football/team/gx7lm7phykvm2wd/image/small",06/09-07:00 | Vòng Loại FIFA World Cup  | Aghentina vs Chile 
