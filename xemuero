@@ -175,7 +175,7 @@ https://stream01.vnet.am/Fightbox/mono.m3u8
 #http://sv1.khanggtivi.xyz/tlive/live-eu-pzybaks9eeliv.thapcam.link/35081ac4406909f600cbce338e82952d/1723320781656/live/may61/playlist.m3u8
 
 
-#EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 3
+#EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 3
 EXTVLCOPT:http-Referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x14y2/playlist.m3u8|Referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x7y2/playlist.m3u8
@@ -187,7 +187,7 @@ EXTVLCOPT:http-Referer=https://sk.mediastation.live/
 #https://linkxink.net/blv-Than-Choi
 https://linkxink.net/bongda3
 
-#EXTINF:-1 group-title="BÓNG ĐÁ 1" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 1
+#EXTINF:-1 group-title="BÓNG ĐÁ 1" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 1
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/YtV3M0FY2DBrgP0C7HQMlQ/Fv2lucGIbhPi2caWYvF5Lg/1721020344085/live/cunFHD/chunklist.m3u8
 https://linkxink.net/onfootballvtell
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/c9V2W1fysATIRYXipTWSSg/Fv2lucGIbhPi2caWYvF5Lg/1721550876490/live/trauFHD/playlist.m3u8
@@ -226,7 +226,7 @@ https://linkxink.net/phat-khi-co-tran
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@taohd1/playlist.m3u8
 #https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@sunhd1/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",BÓNG ĐÁ 4
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 4" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/jm7qmWf.jpg",BÓNG ĐÁ 4
 https://linkxink.net/xoi-lac-2024
 
 #EXTINF:-1 group-title="⚽ XEM BÓNG ĐÁ" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https://img.vbfast.xyz/football/team/kdj2ryoh868q1zp/image/small&m2=https://img.vbfast.xyz/football/team/gx7lm7phykvm2wd/image/small",06/09-07:00 | Vòng Loại FIFA World Cup  | Aghentina vs Chile 
@@ -386,7 +386,7 @@ https://liveflv-quaytay.vipcdnlive.xyz/live/stream_1_a86e6@momhd1/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7fc8831956b0f4fab51d0390a3957780.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa6bce9adfac7903426bed2b253991a18.png", 🔴 09/11-05:00 | Giải Bóng Đá: VĐQG Brazil | Internacional RS vs Fluminense RJ | BLV Giàng A Heo
+#EXTINF:-1 group-title="⚽ Ra Khơi" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F7fc8831956b0f4fab51d0390a3957780.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fa6bce9adfac7903426bed2b253991a18.png", 🔴 09/11-05:00 | Giải Bóng Đá: VĐQG Brazil | Internacional RS vs Fluminense RJ | BLV Giàng A Heo
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heohd1/playlist.m3u8
 #EXTINF:-1 group-title="Cá Heo Live" tvg-logo="http://bentre5.hoangai.vn:8082/website/caheo/cover.php?m1=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2Fee5b1bcc98e7232350988a477974fb26.png&m2=https%3A%2F%2Fimg.thesports.com%2Ffootball%2Fteam%2F4fabb41009b754ec3e14dc1eb3ba5830.png", 🔴 09/11-03:15 | Giải Bóng Đá: VĐQG Bồ Đào Nha | Moreirense vs Gil Vicente | BLV
 
