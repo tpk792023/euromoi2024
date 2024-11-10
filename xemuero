@@ -179,7 +179,7 @@ https://stream01.vnet.am/Fightbox/mono.m3u8
 
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 3" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",KÊNH BÓNG ĐÁ 3
-EXTVLCOPT:http-Referer=https://sk.mediastation.live/
+https://live-eu-pzybaks9eeliv.thapcam.link/388ddcfbfead2f0401014b89eabe1f06/1731265444676/live/may11/playlist.m3u8|Referer=https://t.fdcdn.xyz/
 #https://713291609.cloud.anycastapnic.com/pepmc/x14y2/playlist.m3u8|Referer=https://sk.mediastation.live/
 #https://713291609.cloud.anycastapnic.com/pepmc/x7y2/playlist.m3u8
 #https://vnlive.khanggtivi.xyz/live/MUTV/index.m3u8
@@ -188,7 +188,7 @@ EXTVLCOPT:http-Referer=https://sk.mediastation.live/
 #https://obevcimanyd179569584.thapcam.link/fpflVkO-4VywH_SEH1FKjg/Fv2lucGIbhPi2caWYvF5Lg/1722501832739/live/cuonFHD/playlist.m3u8|Referer=https://i.fdcdn.xyz/
 #http://sv1.khanggtivi.xyz/tlive/apisportvb90xltcbk-secure.nsnd.live/bJaBYAL6oYhdBUDl-OnaBQ/Fv2lucGIbhPi2caWYvF5Lg/1723571857377/live/sd-6MsGQ4B53SoypSTLH1/playlist.m3u8
 #https://linkxink.net/blv-Than-Choi
-https://linkxink.net/bongda3
+#https://linkxink.net/bongda3
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 1" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",KÊNH BÓNG ĐÁ 1
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/YtV3M0FY2DBrgP0C7HQMlQ/Fv2lucGIbhPi2caWYvF5Lg/1721020344085/live/cunFHD/chunklist.m3u8
