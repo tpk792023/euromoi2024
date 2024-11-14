@@ -386,7 +386,11 @@ https://liveflv-quaytay.vipcdnlive.xyz/live/stream_1_a86e6@nhilangthanhd1/playli
 https://liveflv-quaytay.vipcdnlive.xyz/live/stream_1_a86e6@phanghd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Quay tay" tvg-logo="https://i.imgur.com/zZKLVRY.jpeg",BKV Bát Giới
 https://liveflv-quaytay.vipcdnlive.xyz/live/stream_1_a86e6@momhd1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Quay tay" tvg-logo="https://i.imgur.com/pHwuVep.png",BKV Dương Tiển
+https://liveflv-quaytay.vipcdnlive.xyz/live/stream_1_a86e6@duongtienhd1/playlist.m3u8
  
+
+
 #EXTINF:-1 group-title="⚽ Bugio.tv" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://sv-bugio.xyz/uploads/resources/images/128f5e37dbf04650c91d3e34193d60d9.png", Kênh 3
 https://2335646966.global.cdnfastest.com/live/bugio3/chunklist.m3u8
 #EXTINF:-1 group-title="⚽ Bugio.tv" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://sv-bugio.xyz/uploads/resources/images/128f5e37dbf04650c91d3e34193d60d9.png", Kênh 4
