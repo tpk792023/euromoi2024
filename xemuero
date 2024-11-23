@@ -787,8 +787,8 @@ https://sv.tvmienphi.xyz/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpo
 #https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV15 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux; Android 9) ExoPlayerLib/2.13.3
-https://cloud.sgchill.x10.bz/manifest/livetv/tvonline/v2/premium/userid:vmttv/sctv/sctv15/index.m3u8
+http://bentre5.hoangai.vn:8082/youtube/cover1.php?video=aHR0cDovLzUwOTk0Mjg3Ni5yLnZ0dmNkbi5jb20vU0NUVjE1SEQvdjNfaW5kZXgubTN1OA==&audio=aHR0cDovLzUwOTk0Mjg3Ni5yLnZ0dmNkbi5jb20vU0NUVjE1SEQvYTNfaW5kZXgubTN1OA==
+#https://cloud.sgchill.x10.bz/manifest/livetv/tvonline/v2/premium/userid:vmttv/sctv/sctv15/index.m3u8
 #http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
 #https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 #http://bentre5.hoangai.vn:908/proxy?url=https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8&referer=https://sctvonline.vn/
