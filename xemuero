@@ -597,10 +597,6 @@ http://bentre5.hoangai.vn:8086/stream/caheo/etq3tze3yn/test/123/playlist.mpegts
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://img.vbfast.xyz/football/team/vjxm8ghpjoyr6od/image",18/09-14:00 | Trung Quốc U21 League | Chengdu Rongcheng U21 vs Meizhou Hakka U21
 #https://live3.procdnlive.com/livecdn/channel3.m3u8?auth_key=3000001726589057-0-0-e125025ddc2fb2d2a23304f5c42609d5
 #EXTINF:-1 group-title="⚽ Xôi lạc" tvg-logo="https://image.azencode.com/upload/Tournament/ucl.png",17/09-02:00 | UEFA Champions League | Bayern Munich vs Dinamo Zagreb
@@ -791,7 +787,8 @@ https://sv.tvmienphi.xyz/sctv/s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpo
 #https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 group-title="|SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",SCTV15 HD
-http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
+https://cloud.sgchill.x10.bz/manifest/livetv/tvonline/v2/premium/userid:vmttv/sctv/sctv15/index.m3u8
+#http://103.171.91.5/play/u2p_e4wGSh0vafm-3bmTbKJiKMjo5cCycWahXI1Ip64/ts
 #https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 #http://bentre5.hoangai.vn:908/proxy?url=https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8&referer=https://sctvonline.vn/
 #https://sv.tvmienphi.xyz/sctv/s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
