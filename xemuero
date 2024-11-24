@@ -627,12 +627,14 @@ http://bentre5.hoangai.vn:8086/stream/caheo/etq3tze3yn/test/123/playlist.mpegts
 
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 5" tvg-logo="https://i.imgur.com/2CYmcji.png", KÊNH HBO
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 #https://linkxink.net/blv-tokuda-sk
-https://linkxink.net/bongdactuan5
+#https://linkxink.net/bongdactuan5
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 6" tvg-logo="https://i.imgur.com/jm7qmWf.jpg",KÊNH BÓNG ĐÁ 6
+http://125hvt.ddns.net:21585/kcine/index.m3u8
 #https://linkxink.net/blv-sao-hom-sk
-https://linkxink.net/bongdactuan6
+#https://linkxink.net/bongdactuan6
 
 #EXTINF:-1 group-title="BÓNG ĐÁ 7" tvg-logo="https://i.imgur.com/jm7qmWf.jpg", BÓNG ĐÁ 7 
 #https://linkxink.net/blv-sao-tho-sk
