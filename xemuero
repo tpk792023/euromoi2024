@@ -737,15 +737,16 @@ https://linkxink.net/onsportplus
 #https://api.wintv.me/vtvcab6/index.m3u8
 
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
-http://is.am/5pxj/xem
+http://is.am/5rbd/xem
 #https://liveh12.vtvcab.vn/hls/ONFOOTBALL123/04.m3u8
 #https://api.wintv.me/vtvcab16/index.m3u8
 
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://is.am/5rbd
 #http://s4live.tv1asia.com:21585/vtvcab7/index.m3u8
 #https://khanggtivi.xyz/vuminhthanh/vmt2024/onfootball/index.m3u8|Referer=https://khanggtivi.xyz/
-https://linkxink.net/onfootbalonline
+#https://linkxink.net/onfootbalonline
 #http://api.wintv.me/Vieon.php?id=vtvcab16
 #https://api.wintv.me/vtvcab16/index.m3u8
 #https://tth.vn/onfootball
@@ -754,9 +755,10 @@ https://linkxink.net/onfootbalonline
 #https://tth.vn/onfootball-cliptvpk
 
 #EXTINF:-1 group-title="|VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
+http://is.am/5rbd
 #https://tth.vn/onfootball
 #https://tth.vn/onfootball-vieon
-https://linkxink.net/onfootball1
+#https://linkxink.net/onfootball1
 #http://is.am/5xhe
 #https://api.wintv.me/vtvcab16/index.m3u8
 
