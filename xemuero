@@ -49,7 +49,8 @@ http://is.am/5xuf
 
 
 #EXTINF:-1 group-title="🔴|HOẠT HÌNH" tvg-logo="http://img.youtube.com/vi/LXoQVDGeuRc/default.jpg",🔴|Tom & Jerry
-https://linkxink.net/youtubelive
+https://api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8
+#https://linkxink.net/youtubelive
 
 #EXTINF:-1 group-title="🔴|PHIM LẺ TVB YOUTUBE" tvg-logo="https://www.phimlongtieng.net/temp/upload/images/phim/phim/hinhcanhbaoluc.jpg",🔴|Phim Lẻ  | Hình Cảnh Bạo Lực 2000-Lồng Tiếng
 https://api.cloudbeta.win/file/play/db9cbc5d-cb92-4a77-a6fd-b15b5608be21.m3u8
