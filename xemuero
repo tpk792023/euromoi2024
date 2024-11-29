@@ -49,7 +49,8 @@ http://is.am/5xuf
 
 
 #EXTINF:-1 group-title="🔴|HOẠT HÌNH" tvg-logo="http://img.youtube.com/vi/LXoQVDGeuRc/default.jpg",🔴|Tom & Jerry
-http://bentre5.hoangai.vn:1239/api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8
+http://bentre5.hoangai.vn:908/stream?url=https://api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8&rf=https://phimdinhcao.com
+#http://bentre5.hoangai.vn:1239/api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8
 #http://bentre5.hoangai.vn:502/stream?url=https://live3.procdnlive.com/livecdn/channel74.m3u8?auth_key=3000001732845876-0-0-86ee111d2ee173aae65acdc136cf6e8a&rf=https://xlz.plcdn.xyz/
 #https://api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8
 #https://api.cloudbeta.win/file/play/021344dd-5b34-4035-a742-33faf528d74d.m3u8
