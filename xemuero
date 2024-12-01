@@ -261,6 +261,16 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m105nd/playlist.m3u8
 #https://tth.vn/C123chauau
 #https://linkxink.net/xoi-lac-2024
 
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 5" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",BÓNG ĐÁ 5
+http://14.172.223.172:1024/rtp/232.84.1.131:10368
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 6" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",BÓNG ĐÁ 6
+http://14.172.223.172:1024/rtp/232.84.1.97:8556
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 7" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",BÓNG ĐÁ 7
+http://14.172.223.172:1024/rtp/232.84.3.43:11794
+#EXTINF:-1 group-title="⚽ BÓNG ĐÁ 8" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://i.imgur.com/vKFmEDP.png",BÓNG ĐÁ 8
+http://14.172.223.172:1024/rtp/232.84.1.96:8550
+
+
 #EXTINF:-1 group-title="⚽ XEM BÓNG ĐÁ" tvg-logo="http://bentre5.hoangai.vn:8082/website/90p/cover.php?m1=https://img.vbfast.xyz/football/team/kdj2ryoh868q1zp/image/small&m2=https://img.vbfast.xyz/football/team/gx7lm7phykvm2wd/image/small",06/09-07:00 | Vòng Loại FIFA World Cup  | Aghentina vs Chile 
 #https://linkxink.net/xoi-lac-ne
 
