@@ -455,8 +455,8 @@ http://bentre5.hoangai.vn:1239/179939170.vipcdnlive.xyz/live/phanghd2/playlist.m
 http://bentre5.hoangai.vn:1239/179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
 #https://liveflv-4grauqmtofaauqmttgw5y.wslivehls.com/live/stream_1_a86e6@momhd1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Quay tay" tvg-logo="https://i.imgur.com/pHwuVep.png",BKV Dương Tiển
-https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8|Referer=https://tructiep.laykinh3.live
-#http://bentre5.hoangai.vn:1239/179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
+#https://179939170.vipcdnlive.xyz/live/duongtienhd2/chunklist.m3u8|Referer=https://tructiep.laykinh3.live
+http://bentre5.hoangai.vn:1239/179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
  
 #EXTINF:-1 group-title="⚽ thevang.tv" tvg-logo="https://thevang26.site/themes/frontend/default/images/logo.png", Kênh thẻ vàng 1
 https://zenpro2.wedodemos.com/live/_definst_/stream_1_4e329@VG01/playlist.m3u8|Referer=https://thevang26.site
