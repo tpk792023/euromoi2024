@@ -1,6 +1,20 @@
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 nhóm-tiêu-đề="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
+http://p1.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 nhóm-tiêu-đề="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 group-title="CUP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1200px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtvct?token=live
+#EXTINF:-1 group-title="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",Trực tiếp Cúp ASEAN 1
+http://p1.cvtv.xyz/fpt?token=live
+#EXTINF:-1 group-title="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",Trực tiếp Cúp ASEAN 2
+http://p1.cvtv.xyz/fpt2?token=live
+
+
 #EXTINF:-1 group-title="NHẠC MYCLIP" tvg-logo="http://simg1zen.myclip.vn/image1/2023/05/24/15/cdc44a90/cdc44a90-4ceb-4332-9743-d0d4803bbdd4.jpg", LK Nhạc Trữ Tình Bolero Hay Nhất KHÔNG QUẢNG CÁO ▻ Nhạc Vàng Bolero Tê Tái Khi Nghe.TPK79
 https://s3zen.myclip.vn/video1/2023/05/24/15/1279deb9/1279deb9-1926-48c0-b975-700133a64c7e_1_.m3u8?h=1080p
 
