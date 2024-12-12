@@ -12,7 +12,8 @@ http://p1.cvtv.xyz/vtvct?token=live
 #EXTINF:-1 group-title="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",Trực tiếp Cúp ASEAN 1
 http://p1.cvtv.xyz/fpt?token=live
 #EXTINF:-1 group-title="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Logo_AFF_Cup_2024.svg/1200px-Logo_AFF_Cup_2024.svg.png",Trực tiếp Cúp ASEAN 2
-https://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+https://vips-livecdn.fptplay.net/MjM2NTYzMDR8dGhldGhhbzEwNnxmcHR8MTczNDAxMzM0NXw0Mi4xMTMuMTgxLjEwNnwxM2QyNTE5ZWUxYWJlZGI1NmYwYzViYmM1NjNjNzA5Yw/channel/thethao106/master_25f.m3u8
+#https://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
 #http://p1.cvtv.xyz/fpt2?token=live
 
 
