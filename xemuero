@@ -15,6 +15,10 @@ https://vips-livecdn.fptplay.net/MjM2NTYzMDR8dGhldGhhbzEwNnxmcHR8MTczNDAxMzM0NXw
 #https://live.fptplay53.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
 #http://p1.cvtv.xyz/fpt2?token=live
 
+#EXTINF:-1 group-title="CLIPTV" tvg-logo="http://simg1zen.myclip.vn/image1/2023/05/24/15/cdc44a90/cdc44a90-4ceb-4332-9743-d0d4803bbdd4.jpg", VTV1HD
+https://pk79.io.vn/cliptv/vclip.php?id=vtv1-hd
+
+
 
 #EXTINF:-1 group-title="NHẠC MYCLIP" tvg-logo="http://simg1zen.myclip.vn/image1/2023/05/24/15/cdc44a90/cdc44a90-4ceb-4332-9743-d0d4803bbdd4.jpg", LK Nhạc Trữ Tình Bolero Hay Nhất KHÔNG QUẢNG CÁO ▻ Nhạc Vàng Bolero Tê Tái Khi Nghe.TPK79
 https://s3zen.myclip.vn/video1/2023/05/24/15/1279deb9/1279deb9-1926-48c0-b975-700133a64c7e_1_.m3u8?h=1080p
