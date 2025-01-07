@@ -137,34 +137,34 @@ https://global-media.sooplive.com/vod/60071/master.m3u8
 #https://linkxink.net/bao-yagi-2024
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8?h=720p
+#https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8?h=720p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8?h=1080p
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8?h=1080p
+#https://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8?h=1080p
 
 #EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
 https://linkxink.net/boxingtv
@@ -172,25 +172,25 @@ https://linkxink.net/boxingtv
 #EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
 https://stream01.vnet.am/Fightbox/mono.m3u8
 
-#EXTINF:0 group-title="clip tv",HTV2 HD
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", HTV2
 https://pk79.io.vn/vclip/vclip.php?id=htv2-hd
-#EXTINF:0 group-title="clip tv",HTV3
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", HTV3
 https://pk79.io.vn/vclip/vclip.php?id=htv3
-#EXTINF:0 group-title="clip tv",HTV7 HD
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", HTV7
 https://pk79.io.vn/vclip/vclip.php?id=htv7-hd
-#EXTINF:0 group-title="clip tv",HTV9 HD
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", HTV9
 https://pk79.io.vn/vclip/vclip.php?id=htv9-hd
-#EXTINF:0 group-title="clip tv",ON Sports+
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ON Sports+
 https://pk79.io.vn/vclip/vclip.php?id=on-sports-plus
-#EXTINF:0 group-title="clip tv",ON Sports
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ON Sports
 https://pk79.io.vn/vclip/vclip.php?id=on-sports
-#EXTINF:0 group-title="clip tv",ON Football
-http://127.0.0.1/vclip.php?id=on-football
-#EXTINF:0 group-title="clip tv",ON Sports News
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png" ON Football
+https://pk79.io.vn/vclip/vclip.php?i=on-football
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ON Sports News
 https://pk79.io.vn/vclip/vclip.php?id=on-sports-news
-#EXTINF:0 group-title="clip tv",TH Đồng Tháp 1
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", TH Đồng Tháp 1
 https://pk79.io.vn/vclip/vclip.php?id=th-dong-thap-1
-#EXTINF:0 group-title="clip tv",TH An Giang
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", TH An Giang
 https://pk79.io.vn/vclip/vclip.php?id=th-an-giang
 
 #EXTINF:-1 group-title="⚽ OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",31/07-14:00 | Bóng chuyền nam Olympic
