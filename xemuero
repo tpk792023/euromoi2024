@@ -170,7 +170,46 @@ https://linkxink.net/boxingtv
 #EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
 https://stream01.vnet.am/Fightbox/mono.m3u8
 
-
+#EXTINF:0 group-title="clip tv",HTV2 HD
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=htv2-hd
+#EXTINF:0 group-title="clip tv",HTV3
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=htv3
+#EXTINF:0 group-title="clip tv",HTV7 HD
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=htv7-hd
+#EXTINF:0 group-title="clip tv",HTV9 HD
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=htv9-hd
+#EXTINF:0 group-title="clip tv",ON Sports+
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=on-sports-plus
+#EXTINF:0 group-title="clip tv",ON Sports
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=on-sports
+#EXTINF:0 group-title="clip tv",ON Football
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+http://127.0.0.1/vclip.php?id=on-football
+#EXTINF:0 group-title="clip tv",ON Sports News
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=on-sports-news
+#EXTINF:0 group-title="clip tv",TH Đồng Tháp 1
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=th-dong-thap-1
+#EXTINF:0 group-title="clip tv",TH An Giang
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cliptv.vn/
+https://pk79.io.vn/vclip/vclip.php?id=th-an-giang
 
 #EXTINF:-1 group-title="⚽ OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",31/07-14:00 | Bóng chuyền nam Olympic
 #http://sv1.khanggtivi.xyz/tlive/obevcimanyd179569584.thapcam.link/DOc17h-mWTzAuSeoidwS3g/Fv2lucGIbhPi2caWYvF5Lg/1722180215970/live/Z3FHD/chunklist.m3u8
