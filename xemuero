@@ -167,7 +167,8 @@ https://global-media.sooplive.com/vod/60071/master.m3u8
 #https://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8?h=1080p
 
 #EXTINF:-1 group-title="BOXING TV" tvg-logo="http://xemtruyenhinh.tv/image/boxingtv.jpg",KÊNH BOXING'S TV 
-https://linkxink.net/boxingtv
+https://pk79.io.vn/vclip/vclip.php?id=htv2-hd
+#https://linkxink.net/boxingtv
 
 #EXTINF:-1 group-title="FIGHBOX" tvg-logo="http://xemtruyenhinh.tv/image/fightbox.png",KÊNH FIGHBOX
 https://stream01.vnet.am/Fightbox/mono.m3u8
