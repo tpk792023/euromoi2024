@@ -19,6 +19,11 @@ https://vips-livecdn.fptplay.net/MjM2NTYzMDR8dGhldGhhbzEwNnxmcHR8MTczNDAxMzM0NXw
 https://pk79.io.vn/cliptv/vclip.php?id=vtv1-hd
 #EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/ON_Football_HD_logo_2022.png/revision/latest?cb=20230813034236&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Football HD
 https://pk79.io.vn/cliptv/vclip.php?id=on-football
+#EXTINF:-1 group-title="CLIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/ON_Sports_News_24-03-2022.png/revision/latest?cb=20240205085600&path-prefix=vi"catchup-type="append" catchup-days="2" catchup-source="?s=${start}&e=${end}",ON Sports News HD
+https://pk79.io.vn/cliptv/vclip.php?id=on-sports-news
+
+https://pk79.io.vn/cliptv/vclip.php?id=on-sports
+
 
 
 #EXTINF:-1 group-title="NHẠC MYCLIP" tvg-logo="http://simg1zen.myclip.vn/image1/2023/05/24/15/cdc44a90/cdc44a90-4ceb-4332-9743-d0d4803bbdd4.jpg", LK Nhạc Trữ Tình Bolero Hay Nhất KHÔNG QUẢNG CÁO ▻ Nhạc Vàng Bolero Tê Tái Khi Nghe.TPK79
