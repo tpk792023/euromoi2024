@@ -3,8 +3,9 @@
 #EXTINF:-1 nhóm-tiêu-đề="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
 http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 nhóm-tiêu-đề="CÚP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b1000000.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiepdaga.456789.site/
+https://funny-cock.gxsyrh.com/vn88/VN1_250/playlist.m3u8
 #EXTINF:-1 group-title="CUP ASEAN 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1200px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 http://p1.cvtv.xyz/vtvct?token=live
